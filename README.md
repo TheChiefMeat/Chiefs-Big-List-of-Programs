@@ -48,7 +48,7 @@ If you wish for a program to be added to the below list, please open an issue wi
 
 * [Caddy](https://caddyserver.com/) - The HTTP/2 Web Server with Automatic HTTPS
 * [Deluge](https://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client
-* [D-LAN](www.d-lan.net/) - A free LAN file sharing software
+* [D-LAN](http://www.d-lan.net/) - A free LAN file sharing software
 * [Glasswire](https://www.glasswire.com/) - Personal Firewall & Network Monitor
 * [Librevault](https://librevault.com/) - File synchronization designed with privacy in mind
 * [PuTTY](https://putty.org/) - a free SSH and Telnet client
@@ -76,15 +76,15 @@ If you wish for a program to be added to the below list, please open an issue wi
 
 * [Calibre](https://calibre-ebook.com) - calibre: The one stop solution for all your e-book needs. Comprehensive e-book software
 * [Cardo](https://cardo.wiki/) - A TiddlyWiki for Getting Stuff Done
-* [Etherpad](etherpad.org) - Collaborating in really real-time
+* [Etherpad](http://etherpad.org/) - Collaborating in really real-time
 * [Laverna](https://laverna.cc) - Laverna - keep your notes private
 * [LibreOffice](https://www.libreoffice.org/) - Free office suite, open source
-* [MarkdownPad2](markdownpad.com/) - MarkdownPad is a full-featured Markdown editor for Windows
+* [MarkdownPad2](http://markdownpad.com/) - MarkdownPad is a full-featured Markdown editor for Windows
 * [NotePad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages
 * [QOwnNotes](https://www.qownnotes.org) - QOwnNotes is a free plain-text notepad with markdown support for Linux, Mac OS X and Windows
 * [TiddlyWiki](https://tiddlywiki.com/) — a non-linear personal web notebook
-* [Twine](twinery.org/) - Twine publishes directly to HTML, so you can post your work nearly anywhere
-* [WriteMonkey](writemonkey.com/) - Software for full screen distraction free creative writing
+* [Twine](https://twinery.org/) - Twine publishes directly to HTML, so you can post your work nearly anywhere
+* [WriteMonkey](http://writemonkey.com/) - Software for full screen distraction free creative writing
 
 ## Security
 
@@ -106,7 +106,7 @@ If you wish for a program to be added to the below list, please open an issue wi
 
 ## Streaming
 
-* [Chatty](chatty.github.io) - Chatty is a Twitch chat client for everyone who appreciates a dedicated desktop application
+* [Chatty](https://chatty.github.io/) - Chatty is a Twitch chat client for everyone who appreciates a dedicated desktop application
 * [Open Broadcaster Software](https://obsproject.com/) - Open Broadcaster Software is free and open source software for video recording and live streaming
 * [Restream](https://restream.io) - Restream is the best way to stream to YouTube, Twitch, Mixer, Facebook and 30+ other streaming services instantly and simultaneously
 
@@ -120,7 +120,7 @@ If you wish for a program to be added to the below list, please open an issue wi
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - LightBulb is an application that reduces eyestrain produced by staring at a computer screen when working late hours (F.lux alternative)
 - [ManicTime](https://www.manictime.com) - ManicTime is automatic time tracking software, which tracks application and web page usage. Tracked data helps users keep track of time spent
 - [ProcessHacker](https://processhacker.sourceforge.io) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware
-- [QTTabBar](qttabbar.wikidot.com) - Extends Explorer by tabs and extra folder views
+- [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers
 - [Speccy](https://www.ccleaner.com/speccy) - Need to find out what’s inside your computer? Speccy has all the information you need!
 - [TeraCopy](https://www.codesector.com/teracopy) - Official site of TeraCopy, a free utility designed to copy files faster and more secure. It can verify copied files to ensure they are identical
