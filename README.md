@@ -89,7 +89,7 @@ If you wish for a program to be added to the below list, please open an issue wi
 * [NotePad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages
 * [QOwnNotes](https://www.qownnotes.org) - QOwnNotes is a free plain-text notepad with markdown support for Linux, Mac OS X and Windows
 * [TiddlyWiki](https://tiddlywiki.com/) — a non-linear personal web notebook
-* [Twine](https://twinery.org/) - Twine publishes directly to HTML, so you can post your work nearly anywhere
+* [Twine](https://twinery.org/) - Twine is an open-source tool for telling interactive, nonlinear stories
 * [WriteMonkey](http://writemonkey.com/) - Software for full screen distraction free creative writing
 
 ## Security
