@@ -2,6 +2,8 @@
 
 If you wish for a program to be added to the below list, please open an issue with the name of the program as the title, with a link to the website / github page of the program in question.
 
+Disclaimer: I'm one of the developers and maintainers of PGP Suite.
+
 ## Art
 
 * [Blender](https://www.blender.org) - Blender is a professional, free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models
