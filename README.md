@@ -91,13 +91,15 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [MarkdownPad2](http://markdownpad.com/) - MarkdownPad is a full-featured Markdown editor for Windows
 * [NotePad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages
 * [QOwnNotes](https://www.qownnotes.org) - QOwnNotes is a free plain-text notepad with markdown support for Linux, Mac OS X and Windows
-* [TiddlyWiki](https://tiddlywiki.com/) — a non-linear personal web notebook
+* [TiddlyWiki](https://tiddlywiki.com/) - a non-linear personal web notebook
 * [Twine](https://twinery.org/) - Twine is an open-source tool for telling interactive, nonlinear stories
 * [WriteMonkey](http://writemonkey.com/) - Software for full screen distraction free creative writing
 
 ## Security
 
+* [AxCrypt](https://www.axcrypt.net/) - AxCrypt is a simple file encryption software for Windows. It integrates seamlessly with your workflow to encrypt, decrypt, store, send and work with files
 * [Bvckup2](https://bvckup2.com) -Simple fast backup: Light, versatile and very capable data replication software. Select a pair of folders and it will make sure that one stays an exact copy of the other
+* [Cryptomator](https://cryptomator.org/) - Free & Open Source client-side encryption for Dropbox, Google Drive, you name it. Protect your cloud files
 * [Enigmail](https://www.enigmail.net) - Enigmail automatically decrypts and verifies your Email
 * [Gpg4win](https://www.gpg4win.org) - Gpg4win is a secure solution for file and email encryption
 * [Internet Noise](https://github.com/slifty/internet_noise) - HTML application to make internet noise that helps scramble your internet activities
@@ -108,10 +110,11 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [VeraCrypt](https://www.veracrypt.fr/) - VeraCrypt is free open-source disk encryption software for Windows, Mac OS X and Linux
 
 ## Social
-* [Caprine](https://sindresorhus.com/caprine/) - Caprine. An elegant Facebook Messenger desktop app
+* [Caprine](https://sindresorhus.com/caprine/) - Caprine. An elegant Facebook Messenger desktop app * [Cryptocat](https://crypto.cat/) - Chat easily and securely with your buddies using Cryptocat
 * [Discord](https://discordapp.com) - Step up your game with a modern voice & text chat app. Crystal clear voice, multiple server and channel support
 * [eM Client](https://www.emclient.com/) - Fast email client with full Gmail, Hotmail and other services synchronization. Best replacement for MS Outlook or Thunderbird.
-* [KeyBase](https://keybase.io) - Public key crypto for everyone, publicly auditable proofs of identity.
+* [KeyBase](https://keybase.io) - Public key crypto for everyone, publicly auditable proofs of identity
+* [Teamspeak](http://www.teamspeak.com/) - TeamSpeak is the number one choice VoIP communication system for Online Gaming
 * [Thunderbird](https://www.thunderbird.net) - Thunderbird is a free email application that's easy to set up and customize - and it's loaded with great features!
 
 ## Streaming
@@ -138,7 +141,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers
 - [Speccy](https://www.ccleaner.com/speccy) - Need to find out what’s inside your computer? Speccy has all the information you need!
 - [TeraCopy](https://www.codesector.com/teracopy) - Official site of TeraCopy, a free utility designed to copy files faster and more secure. It can verify copied files to ensure they are identical
-
+- [Unlocker](http://www.majorgeeks.com/files/details/unlocker.html) - Unlocker helps delete locked files with error messages including "cannot delete file," and "access is denied."
 
 
 
