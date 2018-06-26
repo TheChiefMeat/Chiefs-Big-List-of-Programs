@@ -91,6 +91,7 @@
 # Social
 * [Caprine](https://sindresorhus.com/caprine/) - Caprine. An elegant Facebook Messenger desktop app
 * [Discord](https://discordapp.com) - Step up your game with a modern voice & text chat app. Crystal clear voice, multiple server and channel support
+* [eM Client](https://www.emclient.com/) - Fast email client with full Gmail, Hotmail and other services synchronization. Best replacement for MS Outlook or Thunderbird.
 * [KeyBase](https://keybase.io) - Public key crypto for everyone, publicly auditable proofs of identity.
 * [Thunderbird](https://www.thunderbird.net) - Thunderbird is a free email application that's easy to set up and customize - and it's loaded with great features!
 
@@ -111,3 +112,7 @@
 - [QTTabBar](qttabbar.wikidot.com) - Extends Explorer by tabs and extra folder views
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers
 - [TeraCopy](https://www.codesector.com/teracopy) - Official site of TeraCopy, a free utility designed to copy files faster and more secure. It can verify copied files to ensure they are identical
+
+
+
+
