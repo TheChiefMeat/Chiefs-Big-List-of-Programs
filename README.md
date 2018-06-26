@@ -110,6 +110,7 @@
 - [Everything](https://www.voidtools.com) - Locate files and folders by name instantly
 - [Fences](https://www.stardock.com/products/fences) - Automatically organize your desktop shortcuts and icons with Fences!
 - [f.lux](https://justgetflux.com) - Is your computer keeping you up late? f.lux is a free download that warms up your computer display at night, to match your indoor lighting
+- [ManicTime](https://www.manictime.com) - ManicTime is automatic time tracking software, which tracks application and web page usage. Tracked data helps users keep track of time spent
 - [ProcessHacker](https://processhacker.sourceforge.io) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware
 - [QTTabBar](qttabbar.wikidot.com) - Extends Explorer by tabs and extra folder views
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers
