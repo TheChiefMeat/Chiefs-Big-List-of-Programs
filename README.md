@@ -16,6 +16,7 @@
 * [EVE](https://www.eveonline.com/) - Player-created empires, player-driven markets, and endless ways to embark on your personal sci-fi adventure
 * [Game Save Manager](http://www.gamesave-manager.com/) - The easy way to manage your PC game saves
 * [GOG Galaxy](https://www.gog.com/galaxy) - The gaming Client designed for a convenient purchasing, playing and updating games
+* [Launchbox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection
 * [Moonlight](https://moonlight-stream.com/) - Moonlight allows you to stream your collection of games from your PC to another device
 * [PPSSPP](http://ppsspp.org/) - PPSSPP is the first PSP emulator for Android (and other mobile platforms), and also runs faster than any other on Windows, Linux and MacOSX
 * [Steam](https://store.steampowered.com/) - Steam is a digital distribution platform
@@ -108,9 +109,10 @@
 - [Everything](https://www.voidtools.com) - Locate files and folders by name instantly
 - [Fences](https://www.stardock.com/products/fences) - Automatically organize your desktop shortcuts and icons with Fences!
 - [f.lux](https://justgetflux.com) - Is your computer keeping you up late? f.lux is a free download that warms up your computer display at night, to match your indoor lighting
-- [ProcessHacker](https://processhacker.sourceforge.io) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+- [ProcessHacker](https://processhacker.sourceforge.io) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware
 - [QTTabBar](qttabbar.wikidot.com) - Extends Explorer by tabs and extra folder views
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers
+- [Speccy](https://www.ccleaner.com/speccy) - Need to find out what’s inside your computer? Speccy has all the information you need!
 - [TeraCopy](https://www.codesector.com/teracopy) - Official site of TeraCopy, a free utility designed to copy files faster and more secure. It can verify copied files to ensure they are identical
 
 
