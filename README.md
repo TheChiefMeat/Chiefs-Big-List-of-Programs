@@ -113,7 +113,8 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [VeraCrypt](https://www.veracrypt.fr/) - VeraCrypt is free open-source disk encryption software for Windows, Mac OS X and Linux
 
 ## Social
-* [Caprine](https://sindresorhus.com/caprine/) - Caprine. An elegant Facebook Messenger desktop app * [Cryptocat](https://crypto.cat/) - Chat easily and securely with your buddies using Cryptocat
+* [Caprine](https://sindresorhus.com/caprine/) - Caprine. An elegant Facebook Messenger desktop app 
+* [Cryptocat](https://crypto.cat/) - Chat easily and securely with your buddies using Cryptocat
 * [Discord](https://discordapp.com) - Step up your game with a modern voice & text chat app. Crystal clear voice, multiple server and channel support
 * [eM Client](https://www.emclient.com/) - Fast email client with full Gmail, Hotmail and other services synchronization. Best replacement for MS Outlook or Thunderbird.
 * [KeyBase](https://keybase.io) - Public key crypto for everyone, publicly auditable proofs of identity
