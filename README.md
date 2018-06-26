@@ -84,3 +84,15 @@
 * [PGP Suite](https://github.com/TheChiefMeat/pgp) - A simple and easy to use PGP system
 * [Private Internet Access](https://www.privateinternetaccess.com/) - High-speed anonymous VPN Service
 * [VeraCrypt](https://www.veracrypt.fr/) - VeraCrypt is free open-source disk encryption software for Windows, Mac OS X and Linux
+
+# Social
+* [Caprine](https://sindresorhus.com/caprine/) - Caprine. An elegant Facebook Messenger desktop app
+* [Discord](https://discordapp.com) - Step up your game with a modern voice & text chat app. Crystal clear voice, multiple server and channel support
+* [KeyBase](https://keybase.io) - Public key crypto for everyone, publicly auditable proofs of identity.
+* [Thunderbird](https://www.thunderbird.net) - Thunderbird is a free email application that's easy to set up and customize - and it's loaded with great features!
+
+# Streaming
+
+* [Chatty](chatty.github.io) - Chatty is a Twitch chat client for everyone who appreciates a dedicated desktop application
+* [Open Broadcaster Software](https://obsproject.com/) - Open Broadcaster Software is free and open source software for video recording and live streaming
+* [Restream](https://restream.io) - Restream is the best way to stream to YouTube, Twitch, Mixer, Facebook and 30+ other streaming services instantly and simultaneously
