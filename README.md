@@ -30,7 +30,9 @@
 
 # Multimedia
 
+* [DVD Shrink](https://www.dvdshrink.org/) - DVD Shrink is software to backup DVD discs
 * [Foobar2000](http://www.foobar2000.org/) - foobar2000 is an advanced freeware audio player
+* [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A real-time always-on-top “replica” of a window of your choice, for Windows Vista, 7, 8, or 10
 * [Reaper](https://www.reaper.fm/) - REAPER is a complete digital audio production application for Windows
 * [SVP4](https://www.svp-team.com/wiki/Download) - Video interpolation software
 * [VLC](https://www.videolan.org/vlc/) - VLC is a free and open source cross-platform multimedia player
@@ -88,6 +90,7 @@
 * [KeePassXC](https://keepassxc.org) - KeePassXC is a free and open-source password manager
 * [PGP Suite](https://github.com/TheChiefMeat/pgp) - A simple and easy to use PGP system
 * [Private Internet Access](https://www.privateinternetaccess.com/) - High-speed anonymous VPN Service
+* [Spybot Anti-Beacon for Windows](https://www.safer-networking.org/spybot-anti-beacon) - Spybot Anti-Beacon is a standalone tool which was designed to block and stop the various tracking (telemetry) issues present in Windows 10
 * [VeraCrypt](https://www.veracrypt.fr/) - VeraCrypt is free open-source disk encryption software for Windows, Mac OS X and Linux
 
 # Social
