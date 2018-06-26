@@ -68,7 +68,7 @@
 # Reading/Writing
 
 * [Calibre](https://calibre-ebook.com) - calibre: The one stop solution for all your e-book needs. Comprehensive e-book software
-* [Cardo](https://cardo.wiki/) - A TiddlyWiki for Getting Stuff Done Click to Get Cardo
+* [Cardo](https://cardo.wiki/) - A TiddlyWiki for Getting Stuff Done
 * [Etherpad](etherpad.org) - Collaborating in really real-time
 * [Laverna](https://laverna.cc) - Laverna - keep your notes private
 * [LibreOffice](https://www.libreoffice.org/) - Free office suite, open source
