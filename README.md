@@ -12,7 +12,7 @@
 * [Battle.Net](http://battle.net/) - Blizzards Official Game Launcher. Used for games like World of Warcraft and Diablo
 * [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs
 * [Cheat Engine](https://cheatengine.org/) - Cheat Engine is an open source tool designed to help you with modifying single player games
-* [Eve](https://www.eveonline.com/) - Player-created empires, player-driven markets, and endless ways to embark on your personal sci-fi adventure
+* [EVE](https://www.eveonline.com/) - Player-created empires, player-driven markets, and endless ways to embark on your personal sci-fi adventure
 * [Game Save Manager](http://www.gamesave-manager.com/) - The easy way to manage your PC game saves
 * [GOG Galaxy](https://www.gog.com/galaxy) - The gaming Client designed for a convenient purchasing, playing and updating games
 * [Moonlight](https://moonlight-stream.com/) - Moonlight allows you to stream your collection of games from your PC to another device
@@ -33,7 +33,7 @@
 * [SVP4](https://www.svp-team.com/wiki/Download) - Video interpolation software
 * [VLC](https://www.videolan.org/vlc/) - VLC is a free and open source cross-platform multimedia player
 * [VoiceAttack](https://voiceattack.com) - Voice-activated control for your PC games and apps
-* [VoiceMeeter](https://www.vb-audio.com/Voicemeeter/index.htm) - Voicemeeter is Audio Mixer Application
+* [VoiceMeeter](https://www.vb-audio.com/Voicemeeter/index.htm) - Voicemeeter is an Audio Mixer Application
 * [X Media Recode](https://www.xmedia-recode.de/en/download.html) - XMedia Recode is a free All-In-One video converter and audio converter tool
 
 # Networking
@@ -48,3 +48,39 @@
 * [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer
 * [WinSCP](https://winscp.net/eng/index.php) - WinSCP (Windows Secure Copy) is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows
+
+# Programming
+
+- [Arduino](https://www.arduino.cc/) - Open-source electronic prototyping platform enabling users to create interactive electronic objects
+- [AutoHotkey](https://autohotkey.com) - Free keyboard macro program
+- [AutoIT](https://www.autoitscript.com/site) - AutoIt v3 is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting
+- [Git](https://git-scm.com) - Git is a free and open source distributed version control system
+- [Gitea](https://gitea.io/en-us) -  A painless self-hosted Git service
+- [MySQL](https://www.mysql.com/) - MySQL is an open-source relational database management system
+- [Node](https://nodejs.org) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine
+- [PyCharm](https://www.jetbrains.com/pycharm/) - PyCharm is an integrated development environment (IDE) used in computer programming, specifically for the Python language
+- [Python](https://www.python.org) - Python is an interpreted high-level programming language for general-purpose programming
+- [Ruby](https://www.ruby-lang.org/en) - A dynamic, open source programming language with a focus on simplicity and productivity
+- [SciTE](https://www.scintilla.org/SciTE.html) - SciTE is a SCIntilla based Text Editor
+
+
+# Reading/Writing
+
+* [Calibre](https://calibre-ebook.com) - calibre: The one stop solution for all your e-book needs. Comprehensive e-book software.
+* [Etherpad](etherpad.org) - Collaborating in really real-time
+* [Laverna](https://laverna.cc) - Laverna - keep your notes private
+* [LibreOffice](https://www.libreoffice.org/) - Free office suite, open source
+* [MarkdownPad2](markdownpad.com/) - MarkdownPad is a full-featured Markdown editor for Windows
+* [QOwnNotes](https://www.qownnotes.org) - QOwnNotes is a free plain-text notepad with markdown support for Linux, Mac OS X and Windows
+* [Twine](twinery.org/) - Twine publishes directly to HTML, so you can post your work nearly anywhere
+* [WriteMonkey](writemonkey.com/) - Software for full screen distraction free creative writing
+
+# Security
+
+* [Bvckup2](https://bvckup2.com) - Bvckup 2 is very fast at bulk copying and it is even faster at updating thanks to its native delta copying support
+* [Enigmail](https://www.enigmail.net) - Enigmail automatically decrypts and verifies your Email
+* [Gpg4win](https://www.gpg4win.org) - Gpg4win is a secure solution for file and email encryption
+* [KeePassXC](https://keepassxc.org) - KeePassXC is a free and open-source password manager
+* [PGP Suite](https://github.com/TheChiefMeat/pgp) - A simple and easy to use PGP system
+* [Private Internet Access](https://www.privateinternetaccess.com/) - High-speed anonymous VPN Service
+* [VeraCrypt](https://www.veracrypt.fr/) - VeraCrypt is free open-source disk encryption software for Windows, Mac OS X and Linux
