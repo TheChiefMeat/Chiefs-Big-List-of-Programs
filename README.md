@@ -1,6 +1,6 @@
 # Chiefs Big List of Programs
 
-If you wish for a program to be added to the below list, please open an issue with the name of the program as the title, with a link to the website / github page of the program in question. If any of the links are dead, please open and issue and provide any up-to-date links to you can provide.
+If you wish for a program to be added to the below list, please open an issue with the name of the program as the title, with a link to the website / github page of the program in question. If any of the links are dead, please open and issue and provide any up-to-date links that you can provide.
 
 Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 
