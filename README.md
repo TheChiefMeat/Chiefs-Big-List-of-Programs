@@ -1,5 +1,6 @@
 # Art
 
+* [Blender](https://www.blender.org) - Blender is a professional, free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models
 * [Gravit Designer](https://designer.io/) - Gravit Designer is a full-featured, free vector design app right at your fingertips
 * [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor
 * [Krita](https://krita.org/en/) - Krita is a professional FREE and open source painting program
@@ -96,3 +97,7 @@
 * [Chatty](chatty.github.io) - Chatty is a Twitch chat client for everyone who appreciates a dedicated desktop application
 * [Open Broadcaster Software](https://obsproject.com/) - Open Broadcaster Software is free and open source software for video recording and live streaming
 * [Restream](https://restream.io) - Restream is the best way to stream to YouTube, Twitch, Mixer, Facebook and 30+ other streaming services instantly and simultaneously
+
+
+
+
