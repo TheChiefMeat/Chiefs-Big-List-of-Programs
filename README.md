@@ -100,6 +100,14 @@
 * [Open Broadcaster Software](https://obsproject.com/) - Open Broadcaster Software is free and open source software for video recording and live streaming
 * [Restream](https://restream.io) - Restream is the best way to stream to YouTube, Twitch, Mixer, Facebook and 30+ other streaming services instantly and simultaneously
 
+# System
 
-
-
+- [Classic Shell](www.classicshell.net/) - Classic Shell™ is free software that improves your productivity, enhances the usability of Windows
+- [Dexpot](https://www.dexpot.de/) - Virtual Desktops
+- [Everything](https://www.voidtools.com) - Locate files and folders by name instantly
+- [Fences](https://www.stardock.com/products/fences) - Automatically organize your desktop shortcuts and icons with Fences!
+- [f.lux](https://justgetflux.com) - Is your computer keeping you up late? f.lux is a free download that warms up your computer display at night, to match your indoor lighting
+- [ProcessHacker](https://processhacker.sourceforge.io) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+- [QTTabBar](qttabbar.wikidot.com) - Extends Explorer by tabs and extra folder views
+- [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers
+- [TeraCopy](https://www.codesector.com/teracopy) - Official site of TeraCopy, a free utility designed to copy files faster and more secure. It can verify copied files to ensure they are identical
