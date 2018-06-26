@@ -1,6 +1,6 @@
 # Chiefs Big List of Programs
 
-If you wish for a program to be added to the below list, please open an issue with the name of the program as the title, with a link to the website / github page of the program in question.
+If you wish for a program to be added to the below list, please open an issue with the name of the program as the title, with a link to the website / github page of the program in question. If any of the links are dead, please open and issue and provide any up-to-date links to you can provide.
 
 Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 
@@ -12,6 +12,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [Inkscape](https://inkscape.org/en/) - Inkscape is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers
 * [Krita](https://krita.org/en/) - Krita is a professional FREE and open source painting program
 * [Picasa](http://www.majorgeeks.com/files/details/picasa_photo_organizer.html) - Picasa Photo Organizer will help you organize and edit your digital photos, then create online albums to share with everyone
+* [Piskel](https://www.piskelapp.com/) - Piskel is a free online editor for animated sprites & pixel art
 * [Stud.io](https://studio.bricklink.com/v2/build/studio.page) - Stud.io aims to get as close to the feeling of building with LEGO in real life
 * [ShareX](https://getsharex.com/) / [Greenshot](http://getgreenshot.org/) - Superior screenshots
 
@@ -38,6 +39,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 
 ## Multimedia
 
+* [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software
 * [DVD Shrink](https://www.dvdshrink.org/) - DVD Shrink is software to backup DVD discs
 * [Foobar2000](http://www.foobar2000.org/) - foobar2000 is an advanced freeware audio player
 * [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs
@@ -101,6 +103,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [Bvckup2](https://bvckup2.com) -Simple fast backup: Light, versatile and very capable data replication software. Select a pair of folders and it will make sure that one stays an exact copy of the other
 * [Cryptomator](https://cryptomator.org/) - Free & Open Source client-side encryption for Dropbox, Google Drive, you name it. Protect your cloud files
 * [Enigmail](https://www.enigmail.net) - Enigmail automatically decrypts and verifies your Email
+* [Eraser](https://eraser.heidi.ie/) - Eraser is an advanced security tool for Windows which allows you to completely remove sensitive data from your hard drive by overwriting it several times with carefully selected patterns
 * [Gpg4win](https://www.gpg4win.org) - Gpg4win is a secure solution for file and email encryption
 * [Internet Noise](https://github.com/slifty/internet_noise) - HTML application to make internet noise that helps scramble your internet activities
 * [KeePassXC](https://keepassxc.org) - KeePassXC is a free and open-source password manager
