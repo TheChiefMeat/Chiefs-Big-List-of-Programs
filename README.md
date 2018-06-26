@@ -1,4 +1,8 @@
-# Art
+# Chiefs Big List of Programs
+
+If you wish for a program to be added to the below list, please open an issue with the name of the program as the title, with a link to the website / github page of the program in question.
+
+## Art
 
 * [Blender](https://www.blender.org) - Blender is a professional, free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models
 * [Gravit Designer](https://designer.io/) - Gravit Designer is a full-featured, free vector design app right at your fingertips
@@ -8,7 +12,7 @@
 * [Stud.io](https://studio.bricklink.com/v2/build/studio.page) - Stud.io aims to get as close to the feeling of building with LEGO in real life
 * [ShareX](https://getsharex.com/) / [Greenshot](http://getgreenshot.org/) - Superior screenshots
 
-# Gaming
+## Gaming
 
 * [Battle.Net](http://battle.net/) - Blizzards Official Game Launcher. Used for games like World of Warcraft and Diablo
 * [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs
@@ -22,13 +26,13 @@
 * [Steam](https://store.steampowered.com/) - Steam is a digital distribution platform
 * [TrackIR](https://www.naturalpoint.com/trackir/) -TrackIR adds depth to the PC gaming experience and pulls you further into the game
 
-# Maintenance
+## Maintenance
 
 * [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - SpaceSniffer is a freeWare and portable tool application that lets you understand how folders and files are structured on your disks
 * [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/) / [Etcher](https://etcher.io/) / [Rufus](https://rufus.akeo.ie/) - A Windows tool for writing images to USB sticks or SD/CF cards 
 * [7Zip](https://www.7-zip.org/) / [PeaZip](www.peazip.org/) - file archiver with a high compression ratio
 
-# Multimedia
+## Multimedia
 
 * [DVD Shrink](https://www.dvdshrink.org/) - DVD Shrink is software to backup DVD discs
 * [Foobar2000](http://www.foobar2000.org/) - foobar2000 is an advanced freeware audio player
@@ -40,7 +44,7 @@
 * [VoiceMeeter](https://www.vb-audio.com/Voicemeeter/index.htm) - Voicemeeter is an Audio Mixer Application
 * [X Media Recode](https://www.xmedia-recode.de/en/download.html) - XMedia Recode is a free All-In-One video converter and audio converter tool
 
-# Networking
+## Networking
 
 * [Caddy](https://caddyserver.com/) - The HTTP/2 Web Server with Automatic HTTPS
 * [Deluge](https://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client
@@ -53,7 +57,7 @@
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer
 * [WinSCP](https://winscp.net/eng/index.php) - WinSCP (Windows Secure Copy) is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows
 
-# Programming
+## Programming
 
 - [Arduino](https://www.arduino.cc/) - Open-source electronic prototyping platform enabling users to create interactive electronic objects
 - [AutoHotkey](https://autohotkey.com) - Free keyboard macro program
@@ -68,7 +72,7 @@
 - [SciTE](https://www.scintilla.org/SciTE.html) - SciTE is a SCIntilla based Text Editor
 
 
-# Reading/Writing
+## Reading/Writing
 
 * [Calibre](https://calibre-ebook.com) - calibre: The one stop solution for all your e-book needs. Comprehensive e-book software
 * [Cardo](https://cardo.wiki/) - A TiddlyWiki for Getting Stuff Done
@@ -82,7 +86,7 @@
 * [Twine](twinery.org/) - Twine publishes directly to HTML, so you can post your work nearly anywhere
 * [WriteMonkey](writemonkey.com/) - Software for full screen distraction free creative writing
 
-# Security
+## Security
 
 * [Bvckup2](https://bvckup2.com) - Bvckup 2 is very fast at bulk copying and it is even faster at updating thanks to its native delta copying support
 * [Enigmail](https://www.enigmail.net) - Enigmail automatically decrypts and verifies your Email
@@ -93,20 +97,20 @@
 * [Spybot Anti-Beacon for Windows](https://www.safer-networking.org/spybot-anti-beacon) - Spybot Anti-Beacon is a standalone tool which was designed to block and stop the various tracking (telemetry) issues present in Windows 10
 * [VeraCrypt](https://www.veracrypt.fr/) - VeraCrypt is free open-source disk encryption software for Windows, Mac OS X and Linux
 
-# Social
+## Social
 * [Caprine](https://sindresorhus.com/caprine/) - Caprine. An elegant Facebook Messenger desktop app
 * [Discord](https://discordapp.com) - Step up your game with a modern voice & text chat app. Crystal clear voice, multiple server and channel support
 * [eM Client](https://www.emclient.com/) - Fast email client with full Gmail, Hotmail and other services synchronization. Best replacement for MS Outlook or Thunderbird.
 * [KeyBase](https://keybase.io) - Public key crypto for everyone, publicly auditable proofs of identity.
 * [Thunderbird](https://www.thunderbird.net) - Thunderbird is a free email application that's easy to set up and customize - and it's loaded with great features!
 
-# Streaming
+## Streaming
 
 * [Chatty](chatty.github.io) - Chatty is a Twitch chat client for everyone who appreciates a dedicated desktop application
 * [Open Broadcaster Software](https://obsproject.com/) - Open Broadcaster Software is free and open source software for video recording and live streaming
 * [Restream](https://restream.io) - Restream is the best way to stream to YouTube, Twitch, Mixer, Facebook and 30+ other streaming services instantly and simultaneously
 
-# System
+## System
 
 - [Classic Shell](www.classicshell.net/) - Classic Shell™ is free software that improves your productivity, enhances the usability of Windows
 - [Dexpot](https://www.dexpot.de/) - Virtual Desktops
