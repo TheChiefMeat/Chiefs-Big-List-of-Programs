@@ -115,6 +115,7 @@ If you wish for a program to be added to the below list, please open an issue wi
 * [Chatty](https://chatty.github.io/) - Chatty is a Twitch chat client for everyone who appreciates a dedicated desktop application
 * [Open Broadcaster Software](https://obsproject.com/) - Open Broadcaster Software is free and open source software for video recording and live streaming
 * [Restream](https://restream.io) - Restream is the best way to stream to YouTube, Twitch, Mixer, Facebook and 30+ other streaming services instantly and simultaneously
+* [Streamlabs OBS](https://streamlabs.com/) - Forked version of OBS
 
 ## System
 
