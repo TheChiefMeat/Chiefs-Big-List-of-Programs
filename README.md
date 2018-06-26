@@ -7,6 +7,7 @@ If you wish for a program to be added to the below list, please open an issue wi
 * [Blender](https://www.blender.org) - Blender is a professional, free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models
 * [Gravit Designer](https://designer.io/) - Gravit Designer is a full-featured, free vector design app right at your fingertips
 * [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor
+* [Inkscape](https://inkscape.org/en/) - Inkscape is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers
 * [Krita](https://krita.org/en/) - Krita is a professional FREE and open source painting program
 * [Picasa](http://www.majorgeeks.com/files/details/picasa_photo_organizer.html) - Picasa Photo Organizer will help you organize and edit your digital photos, then create online albums to share with everyone
 * [Stud.io](https://studio.bricklink.com/v2/build/studio.page) - Stud.io aims to get as close to the feeling of building with LEGO in real life
@@ -120,6 +121,8 @@ If you wish for a program to be added to the below list, please open an issue wi
 ## System
 
 - [Classic Shell](http://www.classicshell.net/) - Classic Shell™ is free software that improves your productivity, enhances the usability of Windows
+- [Core Temp](https://www.alcpu.com/CoreTemp) - Core Temp is a compact, no fuss, small footprint, yet powerful program to monitor processor temperature and other vital information
+- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU-Z is a freeware that gathers information on some of the main devices of your system
 - [Dexpot](https://www.dexpot.de/) - Virtual Desktops
 - [Everything](https://www.voidtools.com) - Locate files and folders by name instantly
 - [Fences](https://www.stardock.com/products/fences) - Automatically organize your desktop shortcuts and icons with Fences!
