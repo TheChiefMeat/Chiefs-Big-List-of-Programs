@@ -67,12 +67,14 @@
 
 # Reading/Writing
 
-* [Calibre](https://calibre-ebook.com) - calibre: The one stop solution for all your e-book needs. Comprehensive e-book software.
+* [Calibre](https://calibre-ebook.com) - calibre: The one stop solution for all your e-book needs. Comprehensive e-book software
+* [Cardo](https://cardo.wiki/) - A TiddlyWiki for Getting Stuff Done Click to Get Cardo
 * [Etherpad](etherpad.org) - Collaborating in really real-time
 * [Laverna](https://laverna.cc) - Laverna - keep your notes private
 * [LibreOffice](https://www.libreoffice.org/) - Free office suite, open source
 * [MarkdownPad2](markdownpad.com/) - MarkdownPad is a full-featured Markdown editor for Windows
 * [QOwnNotes](https://www.qownnotes.org) - QOwnNotes is a free plain-text notepad with markdown support for Linux, Mac OS X and Windows
+* [TiddlyWiki](https://tiddlywiki.com/) — a non-linear personal web notebook
 * [Twine](twinery.org/) - Twine publishes directly to HTML, so you can post your work nearly anywhere
 * [WriteMonkey](writemonkey.com/) - Software for full screen distraction free creative writing
 
