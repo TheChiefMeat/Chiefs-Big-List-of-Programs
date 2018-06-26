@@ -112,7 +112,7 @@ If you wish for a program to be added to the below list, please open an issue wi
 
 ## System
 
-- [Classic Shell](www.classicshell.net/) - Classic Shell™ is free software that improves your productivity, enhances the usability of Windows
+- [Classic Shell](http://www.classicshell.net/) - Classic Shell™ is free software that improves your productivity, enhances the usability of Windows
 - [Dexpot](https://www.dexpot.de/) - Virtual Desktops
 - [Everything](https://www.voidtools.com) - Locate files and folders by name instantly
 - [Fences](https://www.stardock.com/products/fences) - Automatically organize your desktop shortcuts and icons with Fences!
