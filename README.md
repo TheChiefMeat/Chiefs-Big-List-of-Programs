@@ -94,7 +94,7 @@ If you wish for a program to be added to the below list, please open an issue wi
 
 ## Security
 
-* [Bvckup2](https://bvckup2.com) - Bvckup 2 is very fast at bulk copying and it is even faster at updating thanks to its native delta copying support
+* [Bvckup2](https://bvckup2.com) -Simple fast backup: Light, versatile and very capable data replication software. Select a pair of folders and it will make sure that one stays an exact copy of the other
 * [Enigmail](https://www.enigmail.net) - Enigmail automatically decrypts and verifies your Email
 * [Gpg4win](https://www.gpg4win.org) - Gpg4win is a secure solution for file and email encryption
 * [Internet Noise](https://github.com/slifty/internet_noise) - HTML application to make internet noise that helps scramble your internet activities
