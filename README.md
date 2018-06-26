@@ -2,8 +2,6 @@
 
 If you wish for a program to be added to the below list, please open an issue with the name of the program as the title, with a link to the website / github page of the program in question.
 
-Disclaimer: I'm one of the developers and maintainers of PGP Suite.
-
 ## Art
 
 * [Blender](https://www.blender.org) - Blender is a professional, free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models
@@ -31,9 +29,10 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 
 ## Maintenance
 
+* [7Zip](https://www.7-zip.org/) / [PeaZip](www.peazip.org/) - file archiver with a high compression ratio
 * [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - SpaceSniffer is a freeWare and portable tool application that lets you understand how folders and files are structured on your disks
 * [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/) / [Etcher](https://etcher.io/) / [Rufus](https://rufus.akeo.ie/) - A Windows tool for writing images to USB sticks or SD/CF cards 
-* [7Zip](https://www.7-zip.org/) / [PeaZip](www.peazip.org/) - file archiver with a high compression ratio
+* [WinDirStat](https://windirstat.net/) - WinDirStat is a disk usage statistics viewer and cleanup tool (SpaceSniffer alternative)
 
 ## Multimedia
 
