@@ -74,6 +74,7 @@
 * [Laverna](https://laverna.cc) - Laverna - keep your notes private
 * [LibreOffice](https://www.libreoffice.org/) - Free office suite, open source
 * [MarkdownPad2](markdownpad.com/) - MarkdownPad is a full-featured Markdown editor for Windows
+* [NotePad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages
 * [QOwnNotes](https://www.qownnotes.org) - QOwnNotes is a free plain-text notepad with markdown support for Linux, Mac OS X and Windows
 * [TiddlyWiki](https://tiddlywiki.com/) — a non-linear personal web notebook
 * [Twine](twinery.org/) - Twine publishes directly to HTML, so you can post your work nearly anywhere
