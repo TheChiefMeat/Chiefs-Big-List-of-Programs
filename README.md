@@ -36,6 +36,8 @@ If you wish for a program to be added to the below list, please open an issue wi
 
 * [DVD Shrink](https://www.dvdshrink.org/) - DVD Shrink is software to backup DVD discs
 * [Foobar2000](http://www.foobar2000.org/) - foobar2000 is an advanced freeware audio player
+* [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs
+* [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application 
 * [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A real-time always-on-top “replica” of a window of your choice, for Windows Vista, 7, 8, or 10
 * [Reaper](https://www.reaper.fm/) - REAPER is a complete digital audio production application for Windows
 * [SVP4](https://www.svp-team.com/wiki/Download) - Video interpolation software
@@ -49,6 +51,7 @@ If you wish for a program to be added to the below list, please open an issue wi
 * [Caddy](https://caddyserver.com/) - The HTTP/2 Web Server with Automatic HTTPS
 * [Deluge](https://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client
 * [D-LAN](http://www.d-lan.net/) - A free LAN file sharing software
+* [Filebrowser](https://github.com/filebrowser/filebrowser/) - Filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files.
 * [Glasswire](https://www.glasswire.com/) - Personal Firewall & Network Monitor
 * [Librevault](https://librevault.com/) - File synchronization designed with privacy in mind
 * [PuTTY](https://putty.org/) - a free SSH and Telnet client
@@ -74,8 +77,10 @@ If you wish for a program to be added to the below list, please open an issue wi
 
 ## Reading/Writing
 
+* [Atom](https://atom.io/) - A hackable text editor for the 21st Century 
 * [Calibre](https://calibre-ebook.com) - calibre: The one stop solution for all your e-book needs. Comprehensive e-book software
 * [Cardo](https://cardo.wiki/) - A TiddlyWiki for Getting Stuff Done
+* [EncryptPad](https://github.com/evpo/EncryptPad) - EncryptPad is an application for viewing and editing symmetrically encrypted text
 * [Etherpad](http://etherpad.org/) - Collaborating in really real-time
 * [Laverna](https://laverna.cc) - Laverna - keep your notes private
 * [LibreOffice](https://www.libreoffice.org/) - Free office suite, open source
@@ -91,6 +96,7 @@ If you wish for a program to be added to the below list, please open an issue wi
 * [Bvckup2](https://bvckup2.com) - Bvckup 2 is very fast at bulk copying and it is even faster at updating thanks to its native delta copying support
 * [Enigmail](https://www.enigmail.net) - Enigmail automatically decrypts and verifies your Email
 * [Gpg4win](https://www.gpg4win.org) - Gpg4win is a secure solution for file and email encryption
+* [Internet Noise](https://github.com/slifty/internet_noise) - HTML application to make internet noise that helps scramble your internet activities
 * [KeePassXC](https://keepassxc.org) - KeePassXC is a free and open-source password manager
 * [PGP Suite](https://github.com/TheChiefMeat/pgp) - A simple and easy to use PGP system
 * [Private Internet Access](https://www.privateinternetaccess.com/) - High-speed anonymous VPN Service
@@ -119,6 +125,7 @@ If you wish for a program to be added to the below list, please open an issue wi
 - [f.lux](https://justgetflux.com) - Is your computer keeping you up late? f.lux is a free download that warms up your computer display at night, to match your indoor lighting
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - LightBulb is an application that reduces eyestrain produced by staring at a computer screen when working late hours (F.lux alternative)
 - [ManicTime](https://www.manictime.com) - ManicTime is automatic time tracking software, which tracks application and web page usage. Tracked data helps users keep track of time spent
+- [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) - Work, Play, Stream - Without the Stutter
 - [ProcessHacker](https://processhacker.sourceforge.io) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers
