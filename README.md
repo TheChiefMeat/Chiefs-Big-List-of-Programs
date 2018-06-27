@@ -59,7 +59,6 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [D-LAN](http://www.d-lan.net/) - A free LAN file sharing software
 * [Filebrowser](https://github.com/filebrowser/filebrowser/) - Filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files.
 * [Glasswire](https://www.glasswire.com/) - Personal Firewall & Network Monitor
-* [Librevault](https://librevault.com/) - File synchronization designed with privacy in mind
 * [PuTTY](https://putty.org/) - a free SSH and Telnet client
 * [qBittorrent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent
 * [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized
@@ -108,6 +107,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [Internet Noise](https://github.com/slifty/internet_noise) - HTML application to make internet noise that helps scramble your internet activities
 * [KeePassXC](https://keepassxc.org) - KeePassXC is a free and open-source password manager
 * [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass
+* [Librevault](https://librevault.com/) - File synchronization designed with privacy in mind
 * [PGP Suite](https://github.com/TheChiefMeat/pgp) - A simple and easy to use PGP system
 * [Private Internet Access](https://www.privateinternetaccess.com/) - High-speed anonymous VPN Service
 * [Spybot Anti-Beacon for Windows](https://www.safer-networking.org/spybot-anti-beacon) - Spybot Anti-Beacon is a standalone tool which was designed to block and stop the various tracking (telemetry) issues present in Windows 10
