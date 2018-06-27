@@ -108,7 +108,9 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [KeePassXC](https://keepassxc.org) - KeePassXC is a free and open-source password manager
 * [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass
 * [Librevault](https://librevault.com/) - File synchronization designed with privacy in mind
+* [LessPass](https://lesspass.com) - Stateless Password Manager
 * [PGP Suite](https://github.com/TheChiefMeat/pgp) - A simple and easy to use PGP system
+* [MasterPassword](https://gitlab.com/MasterPassword/MasterPassword) - Stateless Password Manager
 * [Private Internet Access](https://www.privateinternetaccess.com/) - High-speed anonymous VPN Service
 * [Spybot Anti-Beacon for Windows](https://www.safer-networking.org/spybot-anti-beacon) - Spybot Anti-Beacon is a standalone tool which was designed to block and stop the various tracking (telemetry) issues present in Windows 10
 * [VeraCrypt](https://www.veracrypt.fr/) - VeraCrypt is free open-source disk encryption software for Windows, Mac OS X and Linux
