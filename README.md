@@ -11,7 +11,6 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor
 * [Inkscape](https://inkscape.org/en/) - Inkscape is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers
 * [Krita](https://krita.org/en/) - Krita is a professional FREE and open source painting program
-* [Picasa](http://www.majorgeeks.com/files/details/picasa_photo_organizer.html) - Picasa Photo Organizer will help you organize and edit your digital photos, then create online albums to share with everyone
 * [Piskel](https://www.piskelapp.com/) - Piskel is a free online editor for animated sprites & pixel art
 * [Stud.io](https://studio.bricklink.com/v2/build/studio.page) - Stud.io aims to get as close to the feeling of building with LEGO in real life
 * [ShareX](https://getsharex.com/) / [Greenshot](http://getgreenshot.org/) - Superior screenshots
@@ -45,6 +44,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs
 * [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application 
 * [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A real-time always-on-top “replica” of a window of your choice, for Windows Vista, 7, 8, or 10
+* [Picasa](http://www.majorgeeks.com/files/details/picasa_photo_organizer.html) - Picasa Photo Organizer will help you organize and edit your digital photos, then create online albums to share with everyone
 * [Reaper](https://www.reaper.fm/) - REAPER is a complete digital audio production application for Windows
 * [SVP4](https://www.svp-team.com/wiki/Download) - Video interpolation software
 * [VLC](https://www.videolan.org/vlc/) - VLC is a free and open source cross-platform multimedia player
@@ -107,6 +107,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [Gpg4win](https://www.gpg4win.org) - Gpg4win is a secure solution for file and email encryption
 * [Internet Noise](https://github.com/slifty/internet_noise) - HTML application to make internet noise that helps scramble your internet activities
 * [KeePassXC](https://keepassxc.org) - KeePassXC is a free and open-source password manager
+* [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass
 * [PGP Suite](https://github.com/TheChiefMeat/pgp) - A simple and easy to use PGP system
 * [Private Internet Access](https://www.privateinternetaccess.com/) - High-speed anonymous VPN Service
 * [Spybot Anti-Beacon for Windows](https://www.safer-networking.org/spybot-anti-beacon) - Spybot Anti-Beacon is a standalone tool which was designed to block and stop the various tracking (telemetry) issues present in Windows 10
