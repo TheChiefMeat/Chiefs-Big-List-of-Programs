@@ -146,6 +146,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 - [ProcessHacker](https://processhacker.sourceforge.io) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers
+- [Resource Hacker](http://angusj.com/resourcehacker/) - Resource Hacker™ is a resource editor for 32bit and 64bit Windows® applications
 - [Speccy](https://www.ccleaner.com/speccy) - Need to find out what’s inside your computer? Speccy has all the information you need!
 - [TeraCopy](https://www.codesector.com/teracopy) - Official site of TeraCopy, a free utility designed to copy files faster and more secure. It can verify copied files to ensure they are identical
 - [Unlocker](http://www.majorgeeks.com/files/details/unlocker.html) - Unlocker helps delete locked files with error messages including "cannot delete file," and "access is denied."
