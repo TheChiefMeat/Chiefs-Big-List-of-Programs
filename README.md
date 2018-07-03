@@ -45,11 +45,13 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application 
 * [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A real-time always-on-top “replica” of a window of your choice, for Windows Vista, 7, 8, or 10
 * [Picasa](http://www.majorgeeks.com/files/details/picasa_photo_organizer.html) - Picasa Photo Organizer will help you organize and edit your digital photos, then create online albums to share with everyone
+* [Standard Notes](https://standardnotes.org/) - Standard Notes is a safe place for your notes, thoughts, and life's work.
 * [Reaper](https://www.reaper.fm/) - REAPER is a complete digital audio production application for Windows
 * [SVP4](https://www.svp-team.com/wiki/Download) - Video interpolation software
 * [VLC](https://www.videolan.org/vlc/) - VLC is a free and open source cross-platform multimedia player
 * [VoiceAttack](https://voiceattack.com) - Voice-activated control for your PC games and apps
 * [VoiceMeeter](https://www.vb-audio.com/Voicemeeter/index.htm) - Voicemeeter is an Audio Mixer Application
+* [VSTHost](http://www.hermannseib.com/english/vsthost.htm) - VST-compatible host
 * [X Media Recode](https://www.xmedia-recode.de/en/download.html) - XMedia Recode is a free All-In-One video converter and audio converter tool
 
 ## Networking
@@ -78,6 +80,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 - [Python](https://www.python.org) - Python is an interpreted high-level programming language for general-purpose programming
 - [Ruby](https://www.ruby-lang.org/en) - A dynamic, open source programming language with a focus on simplicity and productivity
 - [SciTE](https://www.scintilla.org/SciTE.html) - SciTE is a SCIntilla based Text Editor
+- [VvvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library
 
 
 ## Reading/Writing
