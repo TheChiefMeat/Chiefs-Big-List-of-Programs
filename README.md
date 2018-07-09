@@ -32,6 +32,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 ## Maintenance
 
 * [7Zip](https://www.7-zip.org/) / [PeaZip](www.peazip.org/) - file archiver with a high compression ratio
+* [h2testw](https://sosfakeflash.wordpress.com/2008/09/02/h2testw-14-gold-standard-in-detecting-usb-counterfeit-drives/) - Gold Standard In Detecting USB Counterfeit Drives
 * [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - SpaceSniffer is a freeWare and portable tool application that lets you understand how folders and files are structured on your disks
 * [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/) / [Etcher](https://etcher.io/) / [Rufus](https://rufus.akeo.ie/) - A Windows tool for writing images to USB sticks or SD/CF cards 
 * [WinDirStat](https://windirstat.net/) - WinDirStat is a disk usage statistics viewer and cleanup tool (SpaceSniffer alternative)
