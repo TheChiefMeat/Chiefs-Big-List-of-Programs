@@ -137,6 +137,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 
 ## System
 
+- [Chocolatey](https://chocolatey.org/) - The package manager for Windows
 - [Classic Shell](http://www.classicshell.net/) - Classic Shell™ is free software that improves your productivity, enhances the usability of Windows
 - [Core Temp](https://www.alcpu.com/CoreTemp) - Core Temp is a compact, no fuss, small footprint, yet powerful program to monitor processor temperature and other vital information
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU-Z is a freeware that gathers information on some of the main devices of your system
