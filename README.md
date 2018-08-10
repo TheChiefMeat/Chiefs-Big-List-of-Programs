@@ -62,8 +62,11 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [D-LAN](http://www.d-lan.net/) - A free LAN file sharing software
 * [Filebrowser](https://github.com/filebrowser/filebrowser/) - Filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files.
 * [Glasswire](https://www.glasswire.com/) - Personal Firewall & Network Monitor
+* [IPFS](https://ipfs.io/) - A peer-to-peer hypermedia protocol
+to make the web faster, safer, and more open.
 * [PuTTY](https://putty.org/) - a free SSH and Telnet client
 * [qBittorrent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent
+* [https://orion.siderus.io/](https://orion.siderus.io/) - Siderus Orion is an Open Source easy to use Inter Planetary File System (IPFS) desktop client
 * [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer
 * [WinSCP](https://winscp.net/eng/index.php) - WinSCP (Windows Secure Copy) is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows
@@ -123,8 +126,10 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [Caprine](https://sindresorhus.com/caprine/) - Caprine. An elegant Facebook Messenger desktop app 
 * [Cryptocat](https://crypto.cat/) - Chat easily and securely with your buddies using Cryptocat
 * [Discord](https://discordapp.com) - Step up your game with a modern voice & text chat app. Crystal clear voice, multiple server and channel support
-* [eM Client](https://www.emclient.com/) - Fast email client with full Gmail, Hotmail and other services synchronization. Best replacement for MS Outlook or Thunderbird.
+* [eM Client](https://www.emclient.com/) - Fast email client with full Gmail, Hotmail and other services synchronization. Best replacement for MS Outlook or Thunderbird
 * [KeyBase](https://keybase.io) - Public key crypto for everyone, publicly auditable proofs of identity
+* [Ring](https://ring.cx/) - Ring is a free and universal communication platform which preserves the users' privacy and freedoms
+* [RocketChat](https://rocket.chat/) - Rocket.Chat is free, unlimited and open source. Replace email, HipChat & Slack with the ultimate team chat software solution
 * [Teamspeak](http://www.teamspeak.com/) - TeamSpeak is the number one choice VoIP communication system for Online Gaming
 * [Thunderbird](https://www.thunderbird.net) - Thunderbird is a free email application that's easy to set up and customize - and it's loaded with great features!
 
