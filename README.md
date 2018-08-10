@@ -66,7 +66,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 to make the web faster, safer, and more open.
 * [PuTTY](https://putty.org/) - a free SSH and Telnet client
 * [qBittorrent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent
-* [https://orion.siderus.io/](https://orion.siderus.io/) - Siderus Orion is an Open Source easy to use Inter Planetary File System (IPFS) desktop client
+* [Siderus Orion](https://orion.siderus.io/) - Siderus Orion is an Open Source easy to use Inter Planetary File System (IPFS) desktop client
 * [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer
 * [WinSCP](https://winscp.net/eng/index.php) - WinSCP (Windows Secure Copy) is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows
