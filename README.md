@@ -60,10 +60,12 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [Caddy](https://caddyserver.com/) - The HTTP/2 Web Server with Automatic HTTPS
 * [Deluge](https://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client
 * [D-LAN](http://www.d-lan.net/) - A free LAN file sharing software
-* [Filebrowser](https://github.com/filebrowser/filebrowser/) - Filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files.
+* [Filebrowser](https://github.com/filebrowser/filebrowser/) - Filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files
 * [Glasswire](https://www.glasswire.com/) - Personal Firewall & Network Monitor
 * [IPFS](https://ipfs.io/) - A peer-to-peer hypermedia protocol
-to make the web faster, safer, and more open.
+to make the web faster, safer, and more open
+* [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - A menubar IPFS application to get you on the Distributed Web
+to make the web faster, safer, and more open
 * [PuTTY](https://putty.org/) - a free SSH and Telnet client
 * [qBittorrent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent
 * [Siderus Orion](https://orion.siderus.io/) - Siderus Orion is an Open Source easy to use Inter Planetary File System (IPFS) desktop client
