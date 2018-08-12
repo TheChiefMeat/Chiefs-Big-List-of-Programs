@@ -66,6 +66,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 to make the web faster, safer, and more open
 * [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - A menubar IPFS application to get you on the Distributed Web
 to make the web faster, safer, and more open
+* [Perkeep](https://perkeep.org/) - Perkeep lets you permanently keep your stuff, for life
 * [PuTTY](https://putty.org/) - a free SSH and Telnet client
 * [qBittorrent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent
 * [Siderus Orion](https://orion.siderus.io/) - Siderus Orion is an Open Source easy to use Inter Planetary File System (IPFS) desktop client
@@ -155,6 +156,7 @@ to make the web faster, safer, and more open
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - LightBulb is an application that reduces eyestrain produced by staring at a computer screen when working late hours (F.lux alternative)
 - [ManicTime](https://www.manictime.com) - ManicTime is automatic time tracking software, which tracks application and web page usage. Tracked data helps users keep track of time spent
 - [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) - Work, Play, Stream - Without the Stutter
+- [NSSM](http://nssm.cc/usage) - the Non-Sucking Service Manager
 - [ProcessHacker](https://processhacker.sourceforge.io) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers
