@@ -21,6 +21,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs
 * [Cheat Engine](https://cheatengine.org/) - Cheat Engine is an open source tool designed to help you with modifying single player games
 * [EVE](https://www.eveonline.com/) - Player-created empires, player-driven markets, and endless ways to embark on your personal sci-fi adventure
+* [GameHub](https://github.com/tkashkin/GameHub) - Games manager/downloader/library written in Vala for elementary OS
 * [Game Save Manager](http://www.gamesave-manager.com/) - The easy way to manage your PC game saves
 * [GOG Galaxy](https://www.gog.com/galaxy) - The gaming Client designed for a convenient purchasing, playing and updating games
 * [Launchbox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection
@@ -114,6 +115,7 @@ to make the web faster, safer, and more open
 * [Enigmail](https://www.enigmail.net) - Enigmail automatically decrypts and verifies your Email
 * [Eraser](https://eraser.heidi.ie/) - Eraser is an advanced security tool for Windows which allows you to completely remove sensitive data from your hard drive by overwriting it several times with carefully selected patterns
 * [Gpg4win](https://www.gpg4win.org) - Gpg4win is a secure solution for file and email encryption
+* [HRScan2](https://github.com/zelon88/HRScan2) - A self-hosted drag-and-drop virus & malware scanning server
 * [Internet Noise](https://github.com/slifty/internet_noise) - HTML application to make internet noise that helps scramble your internet activities
 * [KeePassXC](https://keepassxc.org) - KeePassXC is a free and open-source password manager
 * [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass
@@ -126,6 +128,7 @@ to make the web faster, safer, and more open
 * [VeraCrypt](https://www.veracrypt.fr/) - VeraCrypt is free open-source disk encryption software for Windows, Mac OS X and Linux
 
 ## Social
+* [ADAMANT](https://adamant.im/) - A top-notch anonymous MESSENGER encrypted in blockchain
 * [Caprine](https://sindresorhus.com/caprine/) - Caprine. An elegant Facebook Messenger desktop app 
 * [Cryptocat](https://crypto.cat/) - Chat easily and securely with your buddies using Cryptocat
 * [Discord](https://discordapp.com) - Step up your game with a modern voice & text chat app. Crystal clear voice, multiple server and channel support
@@ -135,6 +138,7 @@ to make the web faster, safer, and more open
 * [RocketChat](https://rocket.chat/) - Rocket.Chat is free, unlimited and open source. Replace email, HipChat & Slack with the ultimate team chat software solution
 * [Teamspeak](http://www.teamspeak.com/) - TeamSpeak is the number one choice VoIP communication system for Online Gaming
 * [Thunderbird](https://www.thunderbird.net) - Thunderbird is a free email application that's easy to set up and customize - and it's loaded with great features!
+* [Tox](https://tox.chat/) - Tox is easy-to-use software that connects you with friends and family without anyone else listening in
 
 ## Streaming
 
