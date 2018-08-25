@@ -54,6 +54,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [VoiceAttack](https://voiceattack.com) - Voice-activated control for your PC games and apps
 * [VoiceMeeter](https://www.vb-audio.com/Voicemeeter/index.htm) - Voicemeeter is an Audio Mixer Application
 * [VSTHost](http://www.hermannseib.com/english/vsthost.htm) - VST-compatible host
+* [WebTorrent](https://github.com/webtorrent/webtorrent) - WebTorrent, the streaming torrent client for the browser, Mac, Windows, and Linux
 * [X Media Recode](https://www.xmedia-recode.de/en/download.html) - XMedia Recode is a free All-In-One video converter and audio converter tool
 
 ## Networking
@@ -102,6 +103,7 @@ to make the web faster, safer, and more open
 * [LibreOffice](https://www.libreoffice.org/) - Free office suite, open source
 * [MarkdownPad2](http://markdownpad.com/) - MarkdownPad is a full-featured Markdown editor for Windows
 * [NotePad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages
+* [OpenAudible](https://github.com/openaudible/openaudible) - An open source desktop application for downloading and managing your Audible audiobooks
 * [QOwnNotes](https://www.qownnotes.org) - QOwnNotes is a free plain-text notepad with markdown support for Linux, Mac OS X and Windows
 * [TiddlyWiki](https://tiddlywiki.com/) - a non-linear personal web notebook
 * [Twine](https://twinery.org/) - Twine is an open-source tool for telling interactive, nonlinear stories
@@ -143,9 +145,11 @@ to make the web faster, safer, and more open
 ## Streaming
 
 * [Chatty](https://chatty.github.io/) - Chatty is a Twitch chat client for everyone who appreciates a dedicated desktop application
+* [Livestreamer](https://github.com/chrippa/livestreamer) - Livestreamer is a command-line utility that pipes video streams from various services into a video player, such as VLC
 * [Open Broadcaster Software](https://obsproject.com/) - Open Broadcaster Software is free and open source software for video recording and live streaming
 * [Restream](https://restream.io) - Restream is the best way to stream to YouTube, Twitch, Mixer, Facebook and 30+ other streaming services instantly and simultaneously
 * [Streamlabs OBS](https://streamlabs.com/) - Forked version of OBS
+* [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink
 
 ## System
 - [Bleachbit](https://github.com/bleachbit/bleachbit) - Clean Your System and Free Disk Space 
