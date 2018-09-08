@@ -33,7 +33,10 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 ## Maintenance
 
 * [7Zip](https://www.7-zip.org/) / [PeaZip](www.peazip.org/) - file archiver with a high compression ratio
+* [Disk Space Saver](https://qiplex.com/software/disk-space-saver) - Disk Space Saver is available for Windows, Mac and Linux
+* [DropIt](http://www.dropitproject.com/) - Personal Assistant to Automatically Manage Your Files
 * [h2testw](https://sosfakeflash.wordpress.com/2008/09/02/h2testw-14-gold-standard-in-detecting-usb-counterfeit-drives/) - Gold Standard In Detecting USB Counterfeit Drives
+* [Organize My Files](https://qiplex.com/software/organize-my-files/) -Organize files and folders in a click
 * [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - SpaceSniffer is a freeWare and portable tool application that lets you understand how folders and files are structured on your disks
 * [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/) / [Etcher](https://etcher.io/) / [Rufus](https://rufus.akeo.ie/) - A Windows tool for writing images to USB sticks or SD/CF cards 
 * [WinDirStat](https://windirstat.net/) - WinDirStat is a disk usage statistics viewer and cleanup tool (SpaceSniffer alternative)
@@ -136,8 +139,11 @@ to make the web faster, safer, and more open
 * [Discord](https://discordapp.com) - Step up your game with a modern voice & text chat app. Crystal clear voice, multiple server and channel support
 * [eM Client](https://www.emclient.com/) - Fast email client with full Gmail, Hotmail and other services synchronization. Best replacement for MS Outlook or Thunderbird
 * [KeyBase](https://keybase.io) - Public key crypto for everyone, publicly auditable proofs of identity
+* [Mattermost](https://mattermost.com) - Open Source, Private Slack Cloud Alternative
+* [Patchwork](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt
 * [Ring](https://ring.cx/) - Ring is a free and universal communication platform which preserves the users' privacy and freedoms
 * [RocketChat](https://rocket.chat/) - Rocket.Chat is free, unlimited and open source. Replace email, HipChat & Slack with the ultimate team chat software solution
+* [Scuttlebutt](https://www.scuttlebutt.nz/) - a decent(ralised) secure gossip platform
 * [Teamspeak](http://www.teamspeak.com/) - TeamSpeak is the number one choice VoIP communication system for Online Gaming
 * [Thunderbird](https://www.thunderbird.net) - Thunderbird is a free email application that's easy to set up and customize - and it's loaded with great features!
 * [Tox](https://tox.chat/) - Tox is easy-to-use software that connects you with friends and family without anyone else listening in
