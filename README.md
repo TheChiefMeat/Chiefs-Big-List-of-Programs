@@ -36,7 +36,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [Disk Space Saver](https://qiplex.com/software/disk-space-saver) - Disk Space Saver is available for Windows, Mac and Linux
 * [DropIt](http://www.dropitproject.com/) - Personal Assistant to Automatically Manage Your Files
 * [h2testw](https://sosfakeflash.wordpress.com/2008/09/02/h2testw-14-gold-standard-in-detecting-usb-counterfeit-drives/) - Gold Standard In Detecting USB Counterfeit Drives
-* [Organize My Files](https://qiplex.com/software/organize-my-files/) -Organize files and folders in a click
+* [Organize My Files](https://qiplex.com/software/organize-my-files/) - Organize files and folders in a click
 * [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - SpaceSniffer is a freeWare and portable tool application that lets you understand how folders and files are structured on your disks
 * [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/) / [Etcher](https://etcher.io/) / [Rufus](https://rufus.akeo.ie/) - A Windows tool for writing images to USB sticks or SD/CF cards 
 * [WinDirStat](https://windirstat.net/) - WinDirStat is a disk usage statistics viewer and cleanup tool (SpaceSniffer alternative)
