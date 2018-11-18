@@ -47,6 +47,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [DVD Shrink](https://www.dvdshrink.org/) - DVD Shrink is software to backup DVD discs
 * [Foobar2000](http://www.foobar2000.org/) - foobar2000 is an advanced freeware audio player
 * [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs
+* [HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted drag-and-drop file conversion server that supports 59x file formats
 * [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application 
 * [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A real-time always-on-top “replica” of a window of your choice, for Windows Vista, 7, 8, or 10
 * [Picasa](http://www.majorgeeks.com/files/details/picasa_photo_organizer.html) - Picasa Photo Organizer will help you organize and edit your digital photos, then create online albums to share with everyone
@@ -100,6 +101,7 @@ to make the web faster, safer, and more open
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century 
 * [Calibre](https://calibre-ebook.com) - calibre: The one stop solution for all your e-book needs. Comprehensive e-book software
 * [Cardo](https://cardo.wiki/) - A TiddlyWiki for Getting Stuff Done
+* [CrossLine](https://github.com/rochus-keller/CrossLine) - CrossLine is an outliner with sophisticated cross-link capabilities
 * [EncryptPad](https://github.com/evpo/EncryptPad) - EncryptPad is an application for viewing and editing symmetrically encrypted text
 * [Etherpad](http://etherpad.org/) - Collaborating in really real-time
 * [Laverna](https://laverna.cc) - Laverna - keep your notes private
@@ -108,6 +110,7 @@ to make the web faster, safer, and more open
 * [NotePad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages
 * [OpenAudible](https://github.com/openaudible/openaudible) - An open source desktop application for downloading and managing your Audible audiobooks
 * [QOwnNotes](https://www.qownnotes.org) - QOwnNotes is a free plain-text notepad with markdown support for Linux, Mac OS X and Windows
+* [SingleFile](https://github.com/gildas-lormeau/SingleFile) - SingleFile is a WebExtension compatible with Chrome, Firefox (Desktop and Mobile), and Opera that helps you to save a complete web page into a single HTML file
 * [TiddlyWiki](https://tiddlywiki.com/) - a non-linear personal web notebook
 * [Twine](https://twinery.org/) - Twine is an open-source tool for telling interactive, nonlinear stories
 * [WriteMonkey](http://writemonkey.com/) - Software for full screen distraction free creative writing
@@ -115,6 +118,8 @@ to make the web faster, safer, and more open
 ## Security
 
 * [AxCrypt](https://www.axcrypt.net/) - AxCrypt is a simple file encryption software for Windows. It integrates seamlessly with your workflow to encrypt, decrypt, store, send and work with files
+* [Bitwarden Desktop](https://github.com/bitwarden/desktop) - The Bitwarden desktop app is written using Electron and Angular
+* [Bitwarden_RS](https://github.com/dani-garcia/bitwarden_rs) - Bitwarden server API implementation written in Rust 
 * [Bvckup2](https://bvckup2.com) -Simple fast backup: Light, versatile and very capable data replication software. Select a pair of folders and it will make sure that one stays an exact copy of the other
 * [Cryptomator](https://cryptomator.org/) - Free & Open Source client-side encryption for Dropbox, Google Drive, you name it. Protect your cloud files
 * [Enigmail](https://www.enigmail.net) - Enigmail automatically decrypts and verifies your Email
@@ -126,9 +131,10 @@ to make the web faster, safer, and more open
 * [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass
 * [Librevault](https://librevault.com/) - File synchronization designed with privacy in mind
 * [LessPass](https://lesspass.com) - Stateless Password Manager
-* [PGP Suite](https://github.com/TheChiefMeat/pgp) - A simple and easy to use PGP system
 * [MasterPassword](https://gitlab.com/MasterPassword/MasterPassword) - Stateless Password Manager
+* [PGP Suite](https://github.com/TheChiefMeat/pgp) - A simple and easy to use PGP system
 * [Private Internet Access](https://www.privateinternetaccess.com/) - High-speed anonymous VPN Service
+* [restic](https://github.com/restic/restic) - restic is a backup program that is fast, efficient and secure
 * [Spybot Anti-Beacon for Windows](https://www.safer-networking.org/spybot-anti-beacon) - Spybot Anti-Beacon is a standalone tool which was designed to block and stop the various tracking (telemetry) issues present in Windows 10
 * [VeraCrypt](https://www.veracrypt.fr/) - VeraCrypt is free open-source disk encryption software for Windows, Mac OS X and Linux
 
