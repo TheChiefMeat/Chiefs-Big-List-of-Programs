@@ -44,10 +44,12 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 ## Multimedia
 
 * [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software
+* [DC++](http://dcplusplus.sourceforge.net/index.html) - Direct Connect allows you to share files over the Internet without restrictions or limits
 * [DVD Shrink](https://www.dvdshrink.org/) - DVD Shrink is software to backup DVD discs
 * [Foobar2000](http://www.foobar2000.org/) - foobar2000 is an advanced freeware audio player
 * [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs
 * [HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted drag-and-drop file conversion server that supports 59x file formats
+* [Jellyfin](https://github.com/jellyfin/jellyfin) - Jellyfin is a free software media system that puts you in control of managing and streaming your media/Emby Fork
 * [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application 
 * [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A real-time always-on-top “replica” of a window of your choice, for Windows Vista, 7, 8, or 10
 * [Picasa](http://www.majorgeeks.com/files/details/picasa_photo_organizer.html) - Picasa Photo Organizer will help you organize and edit your digital photos, then create online albums to share with everyone
@@ -68,8 +70,9 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [D-LAN](http://www.d-lan.net/) - A free LAN file sharing software
 * [Filebrowser](https://github.com/filebrowser/filebrowser/) - Filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files
 * [Glasswire](https://www.glasswire.com/) - Personal Firewall & Network Monitor
-* [IPFS](https://ipfs.io/) - A peer-to-peer hypermedia protocol
-to make the web faster, safer, and more open
+* [IPFS](https://ipfs.io/) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open
+* [IPFS Cluster](https://github.com/ipfs/ipfs-cluster) - IPFS Cluster is a stand-alone application and a CLI client that allocates, replicates, and tracks pins across a cluster of IPFS daemons
+* [IPFS Companion](https://github.com/ipfs-shipyard/ipfs-companion) - This add-on enables everyone to access IPFS resources the way they were meant: from locally running IPFS node
 * [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - A menubar IPFS application to get you on the Distributed Web
 to make the web faster, safer, and more open
 * [Perkeep](https://perkeep.org/) - Perkeep lets you permanently keep your stuff, for life
@@ -77,6 +80,7 @@ to make the web faster, safer, and more open
 * [qBittorrent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent
 * [Siderus Orion](https://orion.siderus.io/) - Siderus Orion is an Open Source easy to use Inter Planetary File System (IPFS) desktop client
 * [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized
+* [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - The Tor software protects you by bouncing your communications around a distributed network of relays run by volunteers all around the world
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer
 * [WinSCP](https://winscp.net/eng/index.php) - WinSCP (Windows Secure Copy) is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows
 
@@ -101,6 +105,7 @@ to make the web faster, safer, and more open
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century 
 * [Calibre](https://calibre-ebook.com) - calibre: The one stop solution for all your e-book needs. Comprehensive e-book software
 * [Cardo](https://cardo.wiki/) - A TiddlyWiki for Getting Stuff Done
+* [DokuWiki](https://www.dokuwiki.org) - DokuWiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database
 * [CrossLine](https://github.com/rochus-keller/CrossLine) - CrossLine is an outliner with sophisticated cross-link capabilities
 * [EncryptPad](https://github.com/evpo/EncryptPad) - EncryptPad is an application for viewing and editing symmetrically encrypted text
 * [Etherpad](http://etherpad.org/) - Collaborating in really real-time
