@@ -33,10 +33,12 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 ## Maintenance
 
 * [7Zip](https://www.7-zip.org/) / [PeaZip](www.peazip.org/) - file archiver with a high compression ratio
+* [DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp) - DeltaCopy is an open source, fast incremental backup program
 * [Disk Space Saver](https://qiplex.com/software/disk-space-saver) - Disk Space Saver is available for Windows, Mac and Linux
 * [DropIt](http://www.dropitproject.com/) - Personal Assistant to Automatically Manage Your Files
 * [h2testw](https://sosfakeflash.wordpress.com/2008/09/02/h2testw-14-gold-standard-in-detecting-usb-counterfeit-drives/) - Gold Standard In Detecting USB Counterfeit Drives
 * [Organize My Files](https://qiplex.com/software/organize-my-files/) - Organize files and folders in a click
+* [restic](https://github.com/restic/restic) - restic is a backup program that is fast, efficient and secure
 * [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - SpaceSniffer is a freeWare and portable tool application that lets you understand how folders and files are structured on your disks
 * [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/) / [Etcher](https://etcher.io/) / [Rufus](https://rufus.akeo.ie/) - A Windows tool for writing images to USB sticks or SD/CF cards 
 * [WinDirStat](https://windirstat.net/) - WinDirStat is a disk usage statistics viewer and cleanup tool (SpaceSniffer alternative)
@@ -90,6 +92,7 @@ to make the web faster, safer, and more open
 - [AutoHotkey](https://autohotkey.com) - Free keyboard macro program
 - [AutoIT](https://www.autoitscript.com/site) - AutoIt v3 is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting
 - [Git](https://git-scm.com) - Git is a free and open source distributed version control system
+- [GitAhead](https://github.com/gitahead/gitahead) - GitAhead is a graphical Git client designed to help you understand and manage your source code history
 - [Gitea](https://gitea.io/en-us) -  A painless self-hosted Git service
 - [MySQL](https://www.mysql.com/) - MySQL is an open-source relational database management system
 - [Node](https://nodejs.org) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine
@@ -97,6 +100,7 @@ to make the web faster, safer, and more open
 - [Python](https://www.python.org) - Python is an interpreted high-level programming language for general-purpose programming
 - [Ruby](https://www.ruby-lang.org/en) - A dynamic, open source programming language with a focus on simplicity and productivity
 - [SciTE](https://www.scintilla.org/SciTE.html) - SciTE is a SCIntilla based Text Editor
+- [Visual Studio Code](https://github.com/Microsoft/vscode) - VS Code is a type of tool that combines the simplicity of a code editor with what developers need
 - [VvvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library
 
 
@@ -139,7 +143,6 @@ to make the web faster, safer, and more open
 * [MasterPassword](https://gitlab.com/MasterPassword/MasterPassword) - Stateless Password Manager
 * [PGP Suite](https://github.com/TheChiefMeat/pgp) - A simple and easy to use PGP system
 * [Private Internet Access](https://www.privateinternetaccess.com/) - High-speed anonymous VPN Service
-* [restic](https://github.com/restic/restic) - restic is a backup program that is fast, efficient and secure
 * [Spybot Anti-Beacon for Windows](https://www.safer-networking.org/spybot-anti-beacon) - Spybot Anti-Beacon is a standalone tool which was designed to block and stop the various tracking (telemetry) issues present in Windows 10
 * [VeraCrypt](https://www.veracrypt.fr/) - VeraCrypt is free open-source disk encryption software for Windows, Mac OS X and Linux
 
