@@ -55,6 +55,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application 
 * [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A real-time always-on-top “replica” of a window of your choice, for Windows Vista, 7, 8, or 10
 * [Picasa](http://www.majorgeeks.com/files/details/picasa_photo_organizer.html) - Picasa Photo Organizer will help you organize and edit your digital photos, then create online albums to share with everyone
+* [PiGallery2](https://github.com/bpatrik/pigallery2) - This is a directory-first photo gallery website, optimised for running on low resource servers (especially on raspberry pi)
 * [Standard Notes](https://standardnotes.org/) - Standard Notes is a safe place for your notes, thoughts, and life's work.
 * [Reaper](https://www.reaper.fm/) - REAPER is a complete digital audio production application for Windows
 * [SVP4](https://www.svp-team.com/wiki/Download) - Video interpolation software
@@ -77,6 +78,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [IPFS Companion](https://github.com/ipfs-shipyard/ipfs-companion) - This add-on enables everyone to access IPFS resources the way they were meant: from locally running IPFS node
 * [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - A menubar IPFS application to get you on the Distributed Web
 to make the web faster, safer, and more open
+* [netdata](https://github.com/netdata/netdata) - Netdata is distributed, real-time, performance and health monitoring for systems and applications. It is a highly optimized monitoring agent you install on all your systems and containers
 * [Perkeep](https://perkeep.org/) - Perkeep lets you permanently keep your stuff, for life
 * [PuTTY](https://putty.org/) - a free SSH and Telnet client
 * [qBittorrent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent
@@ -94,6 +96,7 @@ to make the web faster, safer, and more open
 - [Git](https://git-scm.com) - Git is a free and open source distributed version control system
 - [GitAhead](https://github.com/gitahead/gitahead) - GitAhead is a graphical Git client designed to help you understand and manage your source code history
 - [Gitea](https://gitea.io/en-us) -  A painless self-hosted Git service
+- [Go](https://golang.org) -  Go is an open source programming language that makes it easy to build simple, reliable, and efficient software
 - [MySQL](https://www.mysql.com/) - MySQL is an open-source relational database management system
 - [Node](https://nodejs.org) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine
 - [PyCharm](https://www.jetbrains.com/pycharm/) - PyCharm is an integrated development environment (IDE) used in computer programming, specifically for the Python language
@@ -102,6 +105,7 @@ to make the web faster, safer, and more open
 - [SciTE](https://www.scintilla.org/SciTE.html) - SciTE is a SCIntilla based Text Editor
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - VS Code is a type of tool that combines the simplicity of a code editor with what developers need
 - [VvvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library
+- [Web-Maker](https://github.com/chinchang/web-maker/) - Web-Maker is an offline playground for your web experiments
 
 
 ## Reading/Writing
@@ -116,8 +120,10 @@ to make the web faster, safer, and more open
 * [Laverna](https://laverna.cc) - Laverna - keep your notes private
 * [LibreOffice](https://www.libreoffice.org/) - Free office suite, open source
 * [MarkdownPad2](http://markdownpad.com/) - MarkdownPad is a full-featured Markdown editor for Windows
+* [Manuskript](https://github.com/olivierkes/manuskript) - Manuskript is an open-source tool for writers
 * [NotePad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages
 * [OpenAudible](https://github.com/openaudible/openaudible) - An open source desktop application for downloading and managing your Audible audiobooks
+* [Polar Bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar Bookshelf is an incremental reading and personal knowledge repository for PDF and the web created using the Electron framework and PDF.js
 * [QOwnNotes](https://www.qownnotes.org) - QOwnNotes is a free plain-text notepad with markdown support for Linux, Mac OS X and Windows
 * [SingleFile](https://github.com/gildas-lormeau/SingleFile) - SingleFile is a WebExtension compatible with Chrome, Firefox (Desktop and Mobile), and Opera that helps you to save a complete web page into a single HTML file
 * [TiddlyWiki](https://tiddlywiki.com/) - a non-linear personal web notebook
@@ -136,11 +142,13 @@ to make the web faster, safer, and more open
 * [Gpg4win](https://www.gpg4win.org) - Gpg4win is a secure solution for file and email encryption
 * [HRScan2](https://github.com/zelon88/HRScan2) - A self-hosted drag-and-drop virus & malware scanning server
 * [Internet Noise](https://github.com/slifty/internet_noise) - HTML application to make internet noise that helps scramble your internet activities
+* [KeePass](https://keepass.info/) - KeePass is a free open source password manager, which helps you to manage your passwords in a secure way
 * [KeePassXC](https://keepassxc.org) - KeePassXC is a free and open-source password manager
 * [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass
 * [Librevault](https://librevault.com/) - File synchronization designed with privacy in mind
 * [LessPass](https://lesspass.com) - Stateless Password Manager
 * [MasterPassword](https://gitlab.com/MasterPassword/MasterPassword) - Stateless Password Manager
+* [OpenStego](https://github.com/syvaidya/openstego) - OpenStego is a steganography application
 * [PGP Suite](https://github.com/TheChiefMeat/pgp) - A simple and easy to use PGP system
 * [Private Internet Access](https://www.privateinternetaccess.com/) - High-speed anonymous VPN Service
 * [Spybot Anti-Beacon for Windows](https://www.safer-networking.org/spybot-anti-beacon) - Spybot Anti-Beacon is a standalone tool which was designed to block and stop the various tracking (telemetry) issues present in Windows 10
@@ -148,7 +156,8 @@ to make the web faster, safer, and more open
 
 ## Social
 * [ADAMANT](https://adamant.im/) - A top-notch anonymous MESSENGER encrypted in blockchain
-* [Caprine](https://sindresorhus.com/caprine/) - Caprine. An elegant Facebook Messenger desktop app 
+* [Caprine](https://sindresorhus.com/caprine/) - Caprine. An elegant Facebook Messenger desktop app
+* [Chrono](https://github.com/gochrono/chrono) - Chrono is a time tracking tool written in Go. It is fast and simple to use
 * [Cryptocat](https://crypto.cat/) - Chat easily and securely with your buddies using Cryptocat
 * [Discord](https://discordapp.com) - Step up your game with a modern voice & text chat app. Crystal clear voice, multiple server and channel support
 * [eM Client](https://www.emclient.com/) - Fast email client with full Gmail, Hotmail and other services synchronization. Best replacement for MS Outlook or Thunderbird
@@ -161,6 +170,7 @@ to make the web faster, safer, and more open
 * [Teamspeak](http://www.teamspeak.com/) - TeamSpeak is the number one choice VoIP communication system for Online Gaming
 * [Thunderbird](https://www.thunderbird.net) - Thunderbird is a free email application that's easy to set up and customize - and it's loaded with great features!
 * [Tox](https://tox.chat/) - Tox is easy-to-use software that connects you with friends and family without anyone else listening in
+* [twtxt](https://github.com/buckket/twtxt) - twtxt is a decentralised, minimalist microblogging service for hackers
 
 ## Streaming
 
