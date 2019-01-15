@@ -103,6 +103,7 @@ to make the web faster, safer, and more open
 - [Python](https://www.python.org) - Python is an interpreted high-level programming language for general-purpose programming
 - [Ruby](https://www.ruby-lang.org/en) - A dynamic, open source programming language with a focus on simplicity and productivity
 - [SciTE](https://www.scintilla.org/SciTE.html) - SciTE is a SCIntilla based Text Editor
+- [Terminus](https://github.com/Eugeny/terminus) - A terminal for the modern age
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - VS Code is a type of tool that combines the simplicity of a code editor with what developers need
 - [VvvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library
 - [Web-Maker](https://github.com/chinchang/web-maker/) - Web-Maker is an offline playground for your web experiments
