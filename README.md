@@ -52,7 +52,8 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs
 * [HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted drag-and-drop file conversion server that supports 59x file formats
 * [Jellyfin](https://github.com/jellyfin/jellyfin) - Jellyfin is a free software media system that puts you in control of managing and streaming your media/Emby Fork
-* [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application 
+* [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
+* [Nuclear](https://github.com/nukeop/nuclear) - Desktop music player focused on streaming from free sources 
 * [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A real-time always-on-top “replica” of a window of your choice, for Windows Vista, 7, 8, or 10
 * [Picasa](http://www.majorgeeks.com/files/details/picasa_photo_organizer.html) - Picasa Photo Organizer will help you organize and edit your digital photos, then create online albums to share with everyone
 * [PiGallery2](https://github.com/bpatrik/pigallery2) - This is a directory-first photo gallery website, optimised for running on low resource servers (especially on raspberry pi)
