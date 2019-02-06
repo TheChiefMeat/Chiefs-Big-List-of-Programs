@@ -20,6 +20,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [Battle.Net](http://battle.net/) - Blizzards Official Game Launcher. Used for games like World of Warcraft and Diablo
 * [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs
 * [Cheat Engine](https://cheatengine.org/) - Cheat Engine is an open source tool designed to help you with modifying single player games
+* [Depressurizer](https://github.com/Depressurizer/Depressurizer) - A Steam library categorizing tool
 * [EVE](https://www.eveonline.com/) - Player-created empires, player-driven markets, and endless ways to embark on your personal sci-fi adventure
 * [GameHub](https://github.com/tkashkin/GameHub) - Games manager/downloader/library written in Vala for elementary OS
 * [Game Save Manager](http://www.gamesave-manager.com/) - The easy way to manage your PC game saves
@@ -46,6 +47,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 ## Multimedia
 
 * [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software
+* [Davinci Resolve 15](https://www.blackmagicdesign.com/products/davinciresolve/) - Revolutionary tools for editing, visual effects, motion graphics, color correction and audio post production, all in a single application
 * [DC++](http://dcplusplus.sourceforge.net/index.html) - Direct Connect allows you to share files over the Internet without restrictions or limits
 * [DVD Shrink](https://www.dvdshrink.org/) - DVD Shrink is software to backup DVD discs
 * [Foobar2000](http://www.foobar2000.org/) - foobar2000 is an advanced freeware audio player
@@ -55,6 +57,7 @@ Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 * [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 * [Nuclear](https://github.com/nukeop/nuclear) - Desktop music player focused on streaming from free sources 
 * [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A real-time always-on-top “replica” of a window of your choice, for Windows Vista, 7, 8, or 10
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) - Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular
 * [Picasa](http://www.majorgeeks.com/files/details/picasa_photo_organizer.html) - Picasa Photo Organizer will help you organize and edit your digital photos, then create online albums to share with everyone
 * [PiGallery2](https://github.com/bpatrik/pigallery2) - This is a directory-first photo gallery website, optimised for running on low resource servers (especially on raspberry pi)
 * [Standard Notes](https://standardnotes.org/) - Standard Notes is a safe place for your notes, thoughts, and life's work.
@@ -123,6 +126,7 @@ to make the web faster, safer, and more open
 * [LibreOffice](https://www.libreoffice.org/) - Free office suite, open source
 * [MarkdownPad2](http://markdownpad.com/) - MarkdownPad is a full-featured Markdown editor for Windows
 * [Manuskript](https://github.com/olivierkes/manuskript) - Manuskript is an open-source tool for writers
+* [Notable](https://github.com/fabiospampinato/notable) - The markdown-based note-taking app that doesn't suck
 * [NotePad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages
 * [OpenAudible](https://github.com/openaudible/openaudible) - An open source desktop application for downloading and managing your Audible audiobooks
 * [Polar Bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar Bookshelf is an incremental reading and personal knowledge repository for PDF and the web created using the Electron framework and PDF.js
@@ -130,6 +134,7 @@ to make the web faster, safer, and more open
 * [SingleFile](https://github.com/gildas-lormeau/SingleFile) - SingleFile is a WebExtension compatible with Chrome, Firefox (Desktop and Mobile), and Opera that helps you to save a complete web page into a single HTML file
 * [TiddlyWiki](https://tiddlywiki.com/) - a non-linear personal web notebook
 * [Twine](https://twinery.org/) - Twine is an open-source tool for telling interactive, nonlinear stories
+* [WikidPad](https://github.com/WikidPad/WikidPad) - WikidPad is a single user desktop wiki
 * [WriteMonkey](http://writemonkey.com/) - Software for full screen distraction free creative writing
 
 ## Security
@@ -159,6 +164,7 @@ to make the web faster, safer, and more open
 ## Social
 * [ADAMANT](https://adamant.im/) - A top-notch anonymous MESSENGER encrypted in blockchain
 * [Caprine](https://sindresorhus.com/caprine/) - Caprine. An elegant Facebook Messenger desktop app
+* [CHIRP](https://chirp.danplanet.com/projects/chirp) - CHIRP is a free, open-source tool for programming your amateur radio
 * [Chrono](https://github.com/gochrono/chrono) - Chrono is a time tracking tool written in Go. It is fast and simple to use
 * [Cryptocat](https://crypto.cat/) - Chat easily and securely with your buddies using Cryptocat
 * [Discord](https://discordapp.com) - Step up your game with a modern voice & text chat app. Crystal clear voice, multiple server and channel support
@@ -184,6 +190,7 @@ to make the web faster, safer, and more open
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink
 
 ## System
+- [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Log what you do on your computer. Simple (yet powerful), extensible, no third parties
 - [Bleachbit](https://github.com/bleachbit/bleachbit) - Clean Your System and Free Disk Space 
 - [Chocolatey](https://chocolatey.org/) - The package manager for Windows
 - [Classic Shell](http://www.classicshell.net/) - Classic Shell™ is free software that improves your productivity, enhances the usability of Windows
@@ -203,8 +210,9 @@ to make the web faster, safer, and more open
 - [Resource Hacker](http://angusj.com/resourcehacker/) - Resource Hacker™ is a resource editor for 32bit and 64bit Windows® applications
 - [SimpleWall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer
 - [Speccy](https://www.ccleaner.com/speccy) - Need to find out what’s inside your computer? Speccy has all the information you need!
+- [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - NTaskwarrior is a GTD, todo list, task management, command line utility with a multitude of features
 - [TeraCopy](https://www.codesector.com/teracopy) - Official site of TeraCopy, a free utility designed to copy files faster and more secure. It can verify copied files to ensure they are identical
 - [Unlocker](http://www.majorgeeks.com/files/details/unlocker.html) - Unlocker helps delete locked files with error messages including "cannot delete file," and "access is denied."
-
+- [Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy
 
 
