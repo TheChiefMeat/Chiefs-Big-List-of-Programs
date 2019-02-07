@@ -4,9 +4,11 @@ If you wish for a program to be added to the below list, please open an issue wi
 
 Disclaimer: I'm one of the developers and maintainers of PGP Suite.
 
+Update: I've started to use [Chocolatey](https://chocolatey.org/) to install most of my applications. Any applications that have a chocolately release available will have a ✅ next to them.
+
 ## Art
 
-* [Blender](https://www.blender.org) - Blender is a professional, free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models
+* [Blender](https://www.blender.org) - Blender is a professional, free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models 
 * [Gravit Designer](https://designer.io/) - Gravit Designer is a full-featured, free vector design app right at your fingertips
 * [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor
 * [Inkscape](https://inkscape.org/en/) - Inkscape is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers
