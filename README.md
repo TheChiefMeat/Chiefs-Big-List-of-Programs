@@ -17,6 +17,7 @@ I've started to use [Chocolatey](https://chocolatey.org/) to install most of my 
 * [Inkscape](https://inkscape.org/en/) - Inkscape is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers ✅
 * [Krita](https://krita.org/en/) - Krita is a professional FREE and open source painting program ✅
 * [Piskel](https://www.piskelapp.com/) - Piskel is a free online editor for animated sprites & pixel art
+* [Sculptris](http://pixologic.com/sculptris/) - Enter Sculptris, a fun and engaging way to start off your digital sculpting journey
 * [Stud.io](https://studio.bricklink.com/v2/build/studio.page) - Stud.io aims to get as close to the feeling of building with LEGO in real life
 * [ShareX](https://getsharex.com/) / [Greenshot](http://getgreenshot.org/) - Superior screenshots ✅
 #
@@ -31,6 +32,7 @@ I've started to use [Chocolatey](https://chocolatey.org/) to install most of my 
 * [GameHub](https://github.com/tkashkin/GameHub) - Games manager/downloader/library written in Vala for elementary OS
 * [Game Save Manager](http://www.gamesave-manager.com/) - The easy way to manage your PC game saves
 * [GOG Galaxy](https://www.gog.com/galaxy) - The gaming Client designed for a convenient purchasing, playing and updating games ✅
+* [Joystick Curves](https://www.xedocproject.com/joystickcurves.html) - Custom joystick curves for any joystick
 * [Launchbox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection
 * [Moonlight](https://moonlight-stream.com/) - Moonlight allows you to stream your collection of games from your PC to another device ✅
 * [PPSSPP](http://ppsspp.org/) - PPSSPP is the first PSP emulator for Android (and other mobile platforms), and also runs faster than any other on Windows, Linux and MacOSX ✅
@@ -46,7 +48,7 @@ I've started to use [Chocolatey](https://chocolatey.org/) to install most of my 
 * [DropIt](http://www.dropitproject.com/) - Personal Assistant to Automatically Manage Your Files ✅
 * [h2testw](https://sosfakeflash.wordpress.com/2008/09/02/h2testw-14-gold-standard-in-detecting-usb-counterfeit-drives/) - Gold Standard In Detecting USB Counterfeit Drives ✅
 * [Organize My Files](https://qiplex.com/software/organize-my-files/) - Organize files and folders in a click
-* [restic](https://github.com/restic/restic) - restic is a backup program that is fast, efficient and secure
+* [restic](https://github.com/restic/restic) - restic is a backup program that is fast, efficient and secure ✅
 * [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - SpaceSniffer is a freeWare and portable tool application that lets you understand how folders and files are structured on your disks ✅
 * [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/) / [Etcher](https://etcher.io/) / [Rufus](https://rufus.akeo.ie/) - A Windows tool for writing images to USB sticks or SD/CF cards ✅
 * [WinDirStat](https://windirstat.net/) - WinDirStat is a disk usage statistics viewer and cleanup tool (SpaceSniffer alternative) ✅
@@ -89,13 +91,13 @@ I've started to use [Chocolatey](https://chocolatey.org/) to install most of my 
 * [IPFS](https://ipfs.io/) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open ✅
 * [IPFS Cluster](https://github.com/ipfs/ipfs-cluster) - IPFS Cluster is a stand-alone application and a CLI client that allocates, replicates, and tracks pins across a cluster of IPFS daemons
 * [IPFS Companion](https://github.com/ipfs-shipyard/ipfs-companion) - This add-on enables everyone to access IPFS resources the way they were meant: from locally running IPFS node
-* [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - A menubar IPFS application to get you on the Distributed Web ✅
-to make the web faster, safer, and more open
+* [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - A menubar IPFS application to get you on the Distributed Web to make the web faster, safer, and more open ✅
 * [netdata](https://github.com/netdata/netdata) - Netdata is distributed, real-time, performance and health monitoring for systems and applications. It is a highly optimized monitoring agent you install on all your systems and containers
 * [Perkeep](https://perkeep.org/) - Perkeep lets you permanently keep your stuff, for life
 * [PuTTY](https://putty.org/) - a free SSH and Telnet client ✅
 * [qBittorrent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent ✅
-* [Siderus Orion](https://orion.siderus.io/) - Siderus Orion is an Open Source easy to use Inter Planetary File System (IPFS) desktop client
+* [Siderus Orion](https://orion.siderus.io/) - Siderus Orion is an Open Source easy to use Inter Planetary File System (IPFS) desktop client ✅
+* [SparkleShare](https://www.sparkleshare.org/) - SparkleShare creates a special folder on your computer. You can add remotely hosted folders (or "projects") to this folder. These projects will be automatically kept in sync with both the host and all of your peers when someone adds, removes or edits a file ✅
 * [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized ✅
 * [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - The Tor software protects you by bouncing your communications around a distributed network of relays run by volunteers all around the world ✅
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer ✅
@@ -125,6 +127,7 @@ to make the web faster, safer, and more open
 
 ## Reading/Writing
 
+* [ArchiveBox](https://archivebox.io/) - ArchiveBox takes a list of website URLs you want to archive, and creates a local, static, browsable HTML clone of the content from those websites (it saves HTML, JS, media files, PDFs, images and more)
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century ✅
 * [Calibre](https://calibre-ebook.com) - calibre: The one stop solution for all your e-book needs. Comprehensive e-book software ✅
 * [Cardo](https://cardo.wiki/) - A TiddlyWiki for Getting Stuff Done
@@ -145,6 +148,7 @@ to make the web faster, safer, and more open
 * [TiddlyWiki](https://tiddlywiki.com/) - a non-linear personal web notebook
 * [Twine](https://twinery.org/) - Twine is an open-source tool for telling interactive, nonlinear stories
 * [WikidPad](https://github.com/WikidPad/WikidPad) - WikidPad is a single user desktop wiki
+* [WriteFreely](https://github.com/writeas/writefreely) - WriteFreely is a beautifully pared-down blogging platform that's simple on the surface, yet powerful underneath
 * [WriteMonkey](http://writemonkey.com/) - Software for full screen distraction free creative writing
 #
 
@@ -175,6 +179,7 @@ to make the web faster, safer, and more open
 
 ## Social
 * [ADAMANT](https://adamant.im/) - A top-notch anonymous MESSENGER encrypted in blockchain
+* [Aether](https://getaether.net/) - Free, privacy-sensitive public communities, Mass communication without the mass surveillance
 * [Caprine](https://sindresorhus.com/caprine/) - Caprine. An elegant Facebook Messenger desktop app
 * [CHIRP](https://chirp.danplanet.com/projects/chirp) - CHIRP is a free, open-source tool for programming your amateur radio ✅
 * [Chrono](https://github.com/gochrono/chrono) - Chrono is a time tracking tool written in Go. It is fast and simple to use
@@ -214,6 +219,7 @@ to make the web faster, safer, and more open
 - [Everything](https://www.voidtools.com) - Locate files and folders by name instantly ✅
 - [Fences](https://www.stardock.com/products/fences) - Automatically organize your desktop shortcuts and icons with Fences!
 - [f.lux](https://justgetflux.com) - Is your computer keeping you up late? f.lux is a free download that warms up your computer display at night, to match your indoor lighting ✅
+- [Keypirinha](http://keypirinha.com/index.html) - A fast launcher for keyboard ninjas on Windows ✅
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - LightBulb is an application that reduces eyestrain produced by staring at a computer screen when working late hours (F.lux alternative) ✅
 - [ManicTime](https://www.manictime.com) - ManicTime is automatic time tracking software, which tracks application and web page usage. Tracked data helps users keep track of time spent ✅
 - [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) - Work, Play, Stream - Without the Stutter
