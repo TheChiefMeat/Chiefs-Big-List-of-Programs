@@ -31,6 +31,7 @@ I've started to use [Chocolatey](https://chocolatey.org/) to install most of my 
 * [EVE](https://www.eveonline.com/) - Player-created empires, player-driven markets, and endless ways to embark on your personal sci-fi adventure
 * [GameHub](https://github.com/tkashkin/GameHub) - Games manager/downloader/library written in Vala for elementary OS
 * [Game Save Manager](http://www.gamesave-manager.com/) - The easy way to manage your PC game saves
+* [Godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 * [GOG Galaxy](https://www.gog.com/galaxy) - The gaming Client designed for a convenient purchasing, playing and updating games ✅
 * [Joystick Curves](https://www.xedocproject.com/joystickcurves.html) - Custom joystick curves for any joystick
 * [Launchbox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection
@@ -57,6 +58,7 @@ I've started to use [Chocolatey](https://chocolatey.org/) to install most of my 
 ## Multimedia
 
 * [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software ✅
+* [Cache Monkey](https://github.com/jamiepine/cache-monkey) - Convert, browse and clear cached images and files
 * [Davinci Resolve 15](https://www.blackmagicdesign.com/products/davinciresolve/) - Revolutionary tools for editing, visual effects, motion graphics, color correction and audio post production, all in a single application
 * [DC++](http://dcplusplus.sourceforge.net/index.html) - Direct Connect allows you to share files over the Internet without restrictions or limits
 * [DVD Shrink](https://www.dvdshrink.org/) - DVD Shrink is software to backup DVD discs
@@ -64,12 +66,14 @@ I've started to use [Chocolatey](https://chocolatey.org/) to install most of my 
 * [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs ✅
 * [HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted drag-and-drop file conversion server that supports 59x file formats
 * [Jellyfin](https://github.com/jellyfin/jellyfin) - Jellyfin is a free software media system that puts you in control of managing and streaming your media/Emby Fork
+* [MuseScore](https://github.com/jellyfin/jellyfin) - MuseScore is an open source and free music notation software
 * [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 * [Nuclear](https://github.com/nukeop/nuclear) - Desktop music player focused on streaming from free sources ✅
 * [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A real-time always-on-top “replica” of a window of your choice, for Windows Vista, 7, 8, or 10 ✅
 * [PeerTube](https://github.com/Chocobozzz/PeerTube) - Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular
 * [Picasa](http://www.majorgeeks.com/files/details/picasa_photo_organizer.html) - Picasa Photo Organizer will help you organize and edit your digital photos, then create online albums to share with everyone
 * [PiGallery2](https://github.com/bpatrik/pigallery2) - This is a directory-first photo gallery website, optimised for running on low resource servers (especially on raspberry pi)
+* [Pixchart](https://github.com/anvaka/pixchart) - Turn any image into delightful splash of colors and order 
 * [Standard Notes](https://standardnotes.org/) - Standard Notes is a safe place for your notes, thoughts, and life's work.
 * [Reaper](https://www.reaper.fm/) - REAPER is a complete digital audio production application for Windows ✅
 * [SVP4](https://www.svp-team.com/wiki/Download) - Video interpolation software
@@ -83,6 +87,7 @@ I've started to use [Chocolatey](https://chocolatey.org/) to install most of my 
 
 ## Networking
 
+* [Brig](https://github.com/sahib/brig) - File synchronization on top of ipfs with git like interface& web based UI
 * [Caddy](https://caddyserver.com/) - The HTTP/2 Web Server with Automatic HTTPS
 * [Deluge](https://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client ✅
 * [D-LAN](http://www.d-lan.net/) - A free LAN file sharing software
@@ -115,6 +120,7 @@ I've started to use [Chocolatey](https://chocolatey.org/) to install most of my 
 - [Go](https://golang.org) -  Go is an open source programming language that makes it easy to build simple, reliable, and efficient software ✅
 - [MySQL](https://www.mysql.com/) - MySQL is an open-source relational database management system ✅
 - [Node](https://nodejs.org) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine ✅
+- [Pagedraw](https://github.com/Pagedraw/pagedraw) - a UI builder for React web apps
 - [PyCharm](https://www.jetbrains.com/pycharm/) - PyCharm is an integrated development environment (IDE) used in computer programming, specifically for the Python language ✅
 - [Python](https://www.python.org) - Python is an interpreted high-level programming language for general-purpose programming ✅
 - [Ruby](https://www.ruby-lang.org/en) - A dynamic, open source programming language with a focus on simplicity and productivity ✅
@@ -161,6 +167,7 @@ I've started to use [Chocolatey](https://chocolatey.org/) to install most of my 
 * [Cryptomator](https://cryptomator.org/) - Free & Open Source client-side encryption for Dropbox, Google Drive, you name it. Protect your cloud files ✅
 * [Enigmail](https://www.enigmail.net) - Enigmail automatically decrypts and verifies your Email
 * [Eraser](https://eraser.heidi.ie/) - Eraser is an advanced security tool for Windows which allows you to completely remove sensitive data from your hard drive by overwriting it several times with carefully selected patterns ✅
+* [Flowcrypt](https://github.com/FlowCrypt/flowcrypt-browser) - FlowCrypt Browser extension for Chrome and Firefox 
 * [Gpg4win](https://www.gpg4win.org) - Gpg4win is a secure solution for file and email encryption ✅
 * [HRScan2](https://github.com/zelon88/HRScan2) - A self-hosted drag-and-drop virus & malware scanning server
 * [Internet Noise](https://github.com/slifty/internet_noise) - HTML application to make internet noise that helps scramble your internet activities
@@ -170,6 +177,7 @@ I've started to use [Chocolatey](https://chocolatey.org/) to install most of my 
 * [Librevault](https://librevault.com/) - File synchronization designed with privacy in mind
 * [LessPass](https://lesspass.com) - Stateless Password Manager
 * [MasterPassword](https://gitlab.com/MasterPassword/MasterPassword) - Stateless Password Manager ✅
+* [Minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures ✅
 * [OpenStego](https://github.com/syvaidya/openstego) - OpenStego is a steganography application ✅
 * [PGP Suite](https://github.com/TheChiefMeat/pgp) - A simple and easy to use PGP system
 * [Private Internet Access](https://www.privateinternetaccess.com/) - High-speed anonymous VPN Service
