@@ -22,6 +22,12 @@ I've started to use [Chocolatey](https://chocolatey.org/) to install most of my 
 * [ShareX](https://getsharex.com/) / [Greenshot](http://getgreenshot.org/) - Superior screenshots ✅
 #
 
+## Finance
+
+* [GnuCash](https://www.gnucash.org/) - GnuCash is personal and small-business financial-accounting software.
+* [Homebank](http://homebank.free.fr/en/downloads.php) - HomeBank is a free software (as in "free speech" and also as in "free beer")
+that will assist you to manage your personal accounting.
+
 ## Gaming
 
 * [Battle.Net](http://battle.net/) - Blizzards Official Game Launcher. Used for games like World of Warcraft and Diablo
@@ -98,6 +104,7 @@ I've started to use [Chocolatey](https://chocolatey.org/) to install most of my 
 * [IPFS Companion](https://github.com/ipfs-shipyard/ipfs-companion) - This add-on enables everyone to access IPFS resources the way they were meant: from locally running IPFS node
 * [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - A menubar IPFS application to get you on the Distributed Web to make the web faster, safer, and more open ✅
 * [netdata](https://github.com/netdata/netdata) - Netdata is distributed, real-time, performance and health monitoring for systems and applications. It is a highly optimized monitoring agent you install on all your systems and containers
+* [Onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously send and receive files, and publish onion sites.
 * [Perkeep](https://perkeep.org/) - Perkeep lets you permanently keep your stuff, for life
 * [PuTTY](https://putty.org/) - a free SSH and Telnet client ✅
 * [qBittorrent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent ✅
@@ -141,6 +148,7 @@ I've started to use [Chocolatey](https://chocolatey.org/) to install most of my 
 * [CrossLine](https://github.com/rochus-keller/CrossLine) - CrossLine is an outliner with sophisticated cross-link capabilities
 * [EncryptPad](https://github.com/evpo/EncryptPad) - EncryptPad is an application for viewing and editing symmetrically encrypted text
 * [Etherpad](http://etherpad.org/) - Collaborating in really real-time
+* [Joplin](https://joplinapp.org/) - An open source note taking and to-do application with synchronisation capabilities.
 * [Laverna](https://laverna.cc) - Laverna - keep your notes private ✅
 * [LibreOffice](https://www.libreoffice.org/) - Free office suite, open source ✅
 * [MarkdownPad2](http://markdownpad.com/) - MarkdownPad is a full-featured Markdown editor for Windows
